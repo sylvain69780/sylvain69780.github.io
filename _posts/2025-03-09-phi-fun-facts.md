@@ -12,6 +12,7 @@ x^2 = x + 1
 $$
 
 It is the proportion between a and b that allows a/b = (a+b)/a.
+
 [Golden ratio - Wikipedia](https://en.wikipedia.org/wiki/Golden_ratio)
 
 $$
@@ -55,19 +56,23 @@ $$
 \Phi = 2 \cdot \cos\left(\frac{\pi}{5}\right)
 $$
 
-This is visible in the triangle below that can be used as a building block for a penthagon.
+This is visible in the triangle below that can be used as a building block for a pentagon.
 
 <svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
     <rect width="400" height="200" fill="white"/>
     <polygon points="200,80 390,190 10,190" fill="none" stroke="black" stroke-width="2"/>
-    <text x="60" y="100" font-family="Arial" font-size="24" fill="black">1</text>
-    <text x="330" y="100" font-family="Arial" font-size="24" fill="black">1</text>
+    <text x="80" y="100" font-family="Arial" font-size="24" fill="black">1</text>
+    <text x="310" y="100" font-family="Arial" font-size="24" fill="black">1</text>
     <text x="200" y="180" font-family="Arial" font-size="24" fill="black">Phi</text>
     <text x="70" y="180" font-family="Arial" font-size="18" fill="black">PI/5 rad (36°)</text>
     <path d="M 50 190 A 20 20 0 0 0 40 170" fill="none" stroke="black" stroke-width="2"/>
 </svg>
 
-**This seems to be just a pure coincidence**, as it does not appear evident in the definition of Phi as the solution of a quadratic equation.
+It does not appear evident in the definition of Phi as the solution of a quadratic equation.
+
+But it is with this geometric proof !
+
+[The exact value of cos(π/5) (Geometric Proof)](https://www.youtube.com/watch?v=NKhvO1uVvEM)
 
 ### References on Phi in Architecture
 
