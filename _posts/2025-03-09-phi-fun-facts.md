@@ -22,7 +22,7 @@ $$
 $$
 
 $$
-\frac{1}{\Phi} \approx 0.618034
+\frac{1}{\Phi} = \Phi - 1 \approx 0.618034
 $$
 
 $$
