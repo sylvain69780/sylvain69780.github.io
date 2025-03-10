@@ -11,6 +11,9 @@ $$
 x^2 = x + 1
 $$
 
+It is the proportion between a and b that allows a/b = (a+b)/a.
+[Golden ratio - Wikipedia](https://en.wikipedia.org/wiki/Golden_ratio)
+
 $$
 \Phi = \frac{1 + \sqrt{5}}{2}
 $$
@@ -31,6 +34,10 @@ $$
 
 
 Shane, a well-known Shadertoy user, recently shared an intuitive method to construct an icosahedron using three perpendicular golden rectangles.
+
+From the reading of Divine Proportion [Luca Pacioli 1509] we deduce that some mathematicians of that time knew the golden relationships in the icosahedron thoroughly. 
+
+[ICOSAHEDRON AND Ф](http://www.polyhedra-world.nc/stuff/gold_icosahedron.pdf)
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/wf23Wd?gui=true&t=10&paused=false&muted=false" allowfullscreen></iframe>
 
