@@ -5,6 +5,31 @@ tags : shadertoy
 ---
 ## The Unexpected Connection of Phi and Icosahedrons
 
+Phi is the positive solution of the quadratic equation
+
+$$
+x^2 = x + 1
+$$
+
+$$
+\Phi = \frac{1 + \sqrt{5}}{2}
+$$
+
+This implies some noticables properties.
+
+$$
+\Phi \approx 1.618034
+$$
+
+$$
+\frac{1}{\Phi} \approx 0.618034
+$$
+
+$$
+\Phi^2 = \Phi+1 \approx 2.618034
+$$
+
+
 Shane, a well-known Shadertoy user, recently shared an intriguing method to construct an icosahedron using three perpendicular golden rectangles. This approach highlights the fascinating properties of the golden number (Phi) in computer graphics.
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/wf23Wd?gui=true&t=10&paused=false&muted=false" allowfullscreen></iframe>
