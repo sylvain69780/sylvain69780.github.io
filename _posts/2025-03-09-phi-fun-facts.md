@@ -56,23 +56,27 @@ $$
 \Phi = 2 \cdot \cos\left(\frac{\pi}{5}\right)
 $$
 
-This is visible in the triangle below that can be used as a building block for a pentagon.
+This is visible in the "self replicating" triangle below that can be used as a building block for a pentagon.
 
 <svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
     <rect width="400" height="200" fill="white"/>
     <polygon points="200,80 390,190 10,190" fill="none" stroke="black" stroke-width="2"/>
+    <line x1="120" y1="190" x2="200" y2="80" stroke="black" stroke-width="2"/>
     <text x="80" y="100" font-family="Arial" font-size="24" fill="black">1</text>
     <text x="310" y="100" font-family="Arial" font-size="24" fill="black">1</text>
     <text x="200" y="180" font-family="Arial" font-size="24" fill="black">Phi</text>
+    <text x="170" y="140" font-family="Arial" font-size="24" fill="black">phi</text>
     <text x="70" y="180" font-family="Arial" font-size="18" fill="black">PI/5 rad (36°)</text>
     <path d="M 50 190 A 20 20 0 0 0 40 170" fill="none" stroke="black" stroke-width="2"/>
 </svg>
 
 It does not appear evident in the definition of Phi as the solution of a quadratic equation.
 
-But it is with this geometric proof !
+But it's related to the proportions rule a/b = (a+b)/a built in this triangle.
 
 [The exact value of cos(π/5) (Geometric Proof)](https://www.youtube.com/watch?v=NKhvO1uVvEM)
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Wlcfz4?gui=false&t=10&paused=false&muted=false" allowfullscreen></iframe>
 
 ### References on Phi in Architecture
 
