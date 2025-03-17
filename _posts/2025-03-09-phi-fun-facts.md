@@ -64,9 +64,14 @@ It turns out that this figure has by construction, angles of $ \frac{\pi}{5} rad
 
 By construction of these 2 isosceles triangles, $AC/AB = AB/AD = x$
 
-Using the fact $AD = AC - AB$
+Using the fact $AD = AC - AB$ , taking special case where $AB=1$ :
+$$AC = x$$
 
-We conclude that x is the solution of the equation $x^2 = x + 1$ and $x = \Phi$
+$$AD = x - 1$$
+
+$$x*(x-1) = 1$$
+
+We conclude that x is the positive solution of the equation $x^2 = x + 1$ and $x = \Phi$
 
 You can also observe the relation : 
 
