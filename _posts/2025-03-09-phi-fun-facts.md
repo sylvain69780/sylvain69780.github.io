@@ -15,7 +15,11 @@ I first heard about Phi, very pretentiously called "the golden number," in the f
 
 ## In computer graphic !
 
-The first surprise was learning that this very pretentious number is used in the field of computer graphics for reproducing natural forms like flowers or harmoniously distributing points on a rectangle. That's already super cool.
+The first surprise was learning that this very pretentious number is used in the field of computer graphics for harmoniously distributing points on a rectangle or a disc. 
+
+This number is unique in its ability to produce non-overlapping patterns, a corollary of the fact that it is the number with the slowest possible convergence in its continued fraction expansion. This contributes to the absence of cycles and overlaps in the patterns.
+
+That's already super cool.
 
 For this reason, it's interesting to have this value memorized.
 
@@ -79,6 +83,7 @@ It's worth noting that Phi is also the symbol used by the **LFI (La France Insou
 [Golden ratio - Wikipedia](https://en.wikipedia.org/wiki/Golden_ratio)
 
 [GM Shaders Mini: Phi](https://open.substack.com/pub/xordev/p/phi?r=2ib59b&utm_campaign=post&utm_medium=email)
+
 [almanach ou dictionnaire des nombres - curiosités et propriétés](http://villemin.gerard.free.fr/)
 
 [ICOSAHEDRON AND Ф](http://www.polyhedra-world.nc/stuff/gold_icosahedron.pdf)
