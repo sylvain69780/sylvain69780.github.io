@@ -7,7 +7,7 @@ tags : shadertoy
 
 Which number can be found in the architecture of the most beautiful constructions, computer graphics for uniform pattern distributions on a surface, the 2D and 3D geometry of the pentagon and icosahedron, and French politics? 
 
-This "WTF !" number is "Phi".
+This number is "Phi" !
 
 ## In architecture
 
@@ -76,7 +76,7 @@ We conclude that x is solution of the equation $x^2 = x + 1$ and $x = \Phi$
 
 ## In French politics !
 
-It's worth noting that Phi is also the symbol used by the **LFI (La France Insoumise)**, a French ultra-left party*. This association is unfortunate, as it links such a remarkable mathematical constant to a political group that some may find disagreeable.
+It's worth noting that Phi is also the symbol used by the **LFI (La France Insoumise)**, a French ultra-left party. This association is unfortunate, as it links such a remarkable mathematical constant to a political group that some may find disagreeable.
 
 ### References 
 
