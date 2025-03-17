@@ -5,7 +5,7 @@ tags : shadertoy
 ---
 ## Questions
 
-Which number can be found in the architecture of the most beautiful constructions, computer graphics for uniform pattern distributions on a surface, the 2D and 3D geometry of the pentagon and icosahedron, and French politics? 
+Which number can be found in the architecture, computer graphics, the 2D and 3D geometry of the pentagon and icosahedron, and French politics? 
 
 This number is "Phi" !
 
@@ -39,13 +39,13 @@ $$
 \Phi^2 = \Phi+1 \approx 2.618034
 $$
 
-## In the 3d construction of the Icosahedron !
+## In 2D and 3D geometry !
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/wf23Wd?gui=true&t=10&paused=false&muted=false" allowfullscreen></iframe>
 
 Shane, a well-known Shadertoy user, recently shared an intuitive method to construct an icosahedron using three perpendicular golden rectangles.
 
-A golden rectangle is a rectangle whose side lengths are in the golden ratio, \( \Phi \). This means that the ratio of the longer side to the shorter side is $ \Phi $, approximately 1.618. If the longer side of the rectangle is \( a \) and the shorter side is \( b \), then:
+A golden rectangle is a rectangle whose side lengths are in the golden ratio, $ \Phi $. This means that the ratio of the longer side to the shorter side is $ \Phi $, approximately 1.618. If the longer side of the rectangle is \( a \) and the shorter side is \( b \), then:
 
 $$
 \frac{a}{b} = \Phi
