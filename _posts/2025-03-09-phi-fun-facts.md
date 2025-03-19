@@ -5,21 +5,54 @@ tags : shadertoy
 ---
 ## Questions
 
-Which number can be found in the architecture, computer graphics, the 2D and 3D geometry of the pentagon and icosahedron, and French politics? 
+Which number can be found in 
+* the design and proportions of buildings
+* computer graphics
+* the geometric properties of pentagons and icosahedrons
+* French politics 
 
 This number is "Phi" !
 
-## In architecture
+## The design and proportions of buildings
 
-I first heard about Phi, very pretentiously called "the golden number," in the field of architecture. I was a bit skeptical about the almost mystical use of this number, more or less convincingly, in many famous constructions like the Parthenon or the pyramids.
+I first heard about Phi, very pretentiously called "the golden number," in the field of architecture.
+
+I was a bit skeptical about the almost mystical use of this number, more or less convincingly, in many famous constructions like the Parthenon or the pyramids.
+
+Phi has fascinating proportional properties that make it unique among numbers. These properties are often used in mathematics, art, and design to create aesthetically pleasing compositions.
+
+1. **Self-Similarity**: 
+    Dividing a line into two parts such that the ratio of the whole line to the longer part is the same as the ratio of the longer part to the shorter part gives the golden ratio, $ \Phi $.
+
+    $$ 
+    \frac{a + b}{a} = \frac{a}{b} = \Phi 
+    $$
+
+2. **Reciprocal Property**:
+    The reciprocal of $ \Phi $ is equal to $ \Phi - 1 $, which is approximately 0.618.
+
+    $$
+    \frac{1}{\Phi} = \Phi - 1
+    $$
+
+3. **Square Property**:
+    The square of $ \Phi $ is equal to $ \Phi + 1 $, which is approximately 2.618.
+
+    $$
+    \Phi^2 = \Phi + 1
+    $$
+
+These proportional properties are why $ \Phi $ is often referred to as the "Divine Proportion" and why it appears in various natural and human-made structures.
 
 ## In computer graphics!
 
 The first surprise was learning that this very pretentious number is used in the field of computer graphics for harmoniously distributing points on a rectangle or a disc.
 
-This number is unique in its ability to produce non-overlapping patterns, a corollary of the fact that it is the number with the slowest possible convergence in its continued fraction expansion. This contributes to the absence of cycles and overlaps in the patterns.
+This number is unique in its ability to produce non-overlapping patterns, a corollary of the fact that it is the number with **the slowest possible convergence in its continued fraction expansion**. 
 
-That's already super cool.
+This contributes to the absence of cycles and overlaps in the patterns.
+
+That's already super cool !
 
 For this reason, it's interesting to have this value memorized.
 
@@ -45,7 +78,7 @@ $$
 
 Shane, a well-known Shadertoy user, recently shared an intuitive method to construct an icosahedron using three perpendicular golden rectangles.
 
-A golden rectangle is a rectangle whose side lengths are in the golden ratio, $ \Phi $. This means that the ratio of the longer side to the shorter side is $ \Phi $. If the longer side of the rectangle is \( a \) and the shorter side is \( b \), then:
+A golden rectangle is a rectangle whose side lengths are in the golden ratio, $ \Phi $. This means that the ratio of the longer side to the shorter side is $ \Phi $. If the longer side of the rectangle is $ a $ and the shorter side is $ b $, then:
 
 $$
 \frac{a}{b} = \Phi
