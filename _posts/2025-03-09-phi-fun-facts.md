@@ -41,7 +41,7 @@ $$
 
 ## In 2D and 3D geometry!
 
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/wf23Wd?gui=true&t=10&paused=false&muted=false" allowfullscreen></iframe>
+<iframe width="400" height="300" frameborder="0" src="https://www.shadertoy.com/embed/wf23Wd?gui=true&t=10&paused=false&muted=false" allowfullscreen></iframe>
 
 Shane, a well-known Shadertoy user, recently shared an intuitive method to construct an icosahedron using three perpendicular golden rectangles.
 
@@ -64,12 +64,12 @@ It turns out that this figure has by construction, angles of $ \frac{\pi}{5} rad
 
 By construction of these 2 isosceles triangles, $AC/AB = AB/AD = x$
 
-Using the fact $AD = AC - AB$ , taking special case where $AB=1$ :
+Taking special case where $AB=1$ :
 $$AC = x$$
 
-$$AD = x - 1$$
+$$AD = AC - AB = x - 1$$
 
-$$x*(x-1) = 1$$
+$$AC/AB = AB/AD  \Leftrightarrow x = 1/(x-1)  \Leftrightarrow x*(x-1) = 1$$
 
 We conclude that x is the positive solution of the equation $x^2 = x + 1$ and $x = \Phi$
 
@@ -89,6 +89,8 @@ It's worth noting that Phi is also the symbol used by the **LFI (La France Insou
 
 [Golden ratio - Wikipedia](https://en.wikipedia.org/wiki/Golden_ratio)
 
+[Golden rectangle - Wikipedia](https://en.wikipedia.org/wiki/Golden_rectangle)
+
 [GM Shaders Mini: Phi](https://open.substack.com/pub/xordev/p/phi?r=2ib59b&utm_campaign=post&utm_medium=email)
 
 [almanach ou dictionnaire des nombres - curiosités et propriétés](http://villemin.gerard.free.fr/)
@@ -97,4 +99,4 @@ It's worth noting that Phi is also the symbol used by the **LFI (La France Insou
 
 [The exact value of cos(π/5) (Geometric Proof)](https://www.youtube.com/watch?v=NKhvO1uVvEM)
 
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Wlcfz4?gui=false&t=10&paused=false&muted=false" allowfullscreen></iframe>
+<iframe width="400" height="300" frameborder="0" src="https://www.shadertoy.com/embed/Wlcfz4?gui=false&t=10&paused=false&muted=false" allowfullscreen></iframe>
