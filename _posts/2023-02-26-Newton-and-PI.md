@@ -12,9 +12,9 @@ This is the only number you can eat ! 🥮
 [Coding Challenge 169: Pi in the Sky Game](https://www.youtube.com/watch?v=_H9JIwWP7HQ)
 # The Discovery That Transformed Pi
 
-The Veritasium video "The discovery that transformed Pi" is extraordinary.
+The Veritasium video "The discovery that transformed Pi" is extraordinary (link at bottom).
 
-This video has **11M views**, and it's no coincidence.
+This video has **17M views**, and it's no coincidence, below are my notes about it.
 
 It shows **Isaac Newton** as a real genius, in the sense that he invented a revolutionary method of calculation starting from the trivial "binomial expansion", related to Pascal's triangle and known for centuries.
 
@@ -29,13 +29,7 @@ Newton discovered it works also with negative and fractional "n" values.
 When n is an integer, the serie ends because a zero appears when k=n and all remaining terms are then multiplied by zero. 
 When n is negative or fractional the sequence turns to be infinite but eventually converges to the expected value !
 
-I wanted to compute PI with the formula described in the Video.
-
-$$
-\pi = \frac{3\times\sqrt{3}}{4} - 24\times\sum_{n=0}^{\infty}\frac{(2n)!}{2^{4n+2}\times(n!)^2\times(2n-1)(2n+3)}
-$$ 
-
-I wanted also compute the square root of 3 as [Newton would do](https://youtu.be/gMlf1ELvRzc?t=742), using the following formula. $(x+1)^\frac{1}{2}$ with $x=-\frac{1}{4}$  
+The video show the computation of $sqrt{3}$ using the following formula. $(x+1)^\frac{1}{2}$ with $x=-\frac{1}{4}$  
 
 $$ 
 sqrt{3} = 2\times(1-\frac{1}{4})^\frac{1}{2} 
@@ -43,6 +37,12 @@ $$
 
 $$ 
 (1-\frac{1}{4})^\frac{1}{2} = 1 - \frac{1}{8} - \frac{1}{128} - \frac{1}{2^{10}} + \frac{5}{2^{15}} ...
+$$ 
+
+And the very fast computation of PI, that is using integration of $(x-1)^\frac{1}{2}$ between 0 and 1/2, using the expansion of $(x+1)^\frac{1}{2}$ remplacing x by -x^2.
+
+$$
+\pi = \frac{3\times\sqrt{3}}{4} - 24\times\sum_{n=0}^{\infty}\frac{(2n)!}{2^{4n+2}\times(n!)^2\times(2n-1)(2n+3)}
 $$ 
 
 The code below is not optimized at all.
