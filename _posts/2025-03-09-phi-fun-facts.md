@@ -86,12 +86,12 @@ $$
 
 From the reading of Divine Proportion [Luca Pacioli 1509] we deduce that some mathematicians of that time knew the golden relationships in the icosahedron thoroughly !
 
-One can construct a geometric figure with 2 dimensions a and b that fulfill the golden ratio relation $a/b = (a+b)/a$.
+Using only a ruler and compass, you can construct a geometric figure with two dimensions, $a$ and $b$, that satisfy the golden ratio relation: $a/b = (a+b)/a$.
 
-It turns out that this figure has by construction, angles of $ \frac{\pi}{5} rad$, $ \frac{\pi}{5} rad$, and $ \frac{3\pi}{5} rad$.
+You can demonstrate that, by construction, this figure has angles of $ \frac{\pi}{5} $ rad, $ \frac{\pi}{5} $ rad, and $ \frac{3\pi}{5} $ rad.
 
-* Pentagons and Icosahedrons use PI/5 rad (36°) for their constructions.
 * This explains why Phi equals 2 * cos(π/5).
+* The same figure can be found during the construction of the pentagons and the icosahedrons.
 
 [Construction using Desmos](https://www.desmos.com/geometry/c8ety52kpm)
 

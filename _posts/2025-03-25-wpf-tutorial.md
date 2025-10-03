@@ -1,3 +1,8 @@
+---
+layout: default
+title : "WPF Tutorial"
+tags : C#
+---
 # WPF application
 
 To demonstrate a new WPF component for my work, I followed a tutorial available on YouTube.
