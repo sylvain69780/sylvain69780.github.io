@@ -3,22 +3,21 @@ layout: default
 title : "Rhombic Dodecahedron using FreeCAD"
 tags : freeCAD
 ---
-# Réaliser dodédécahedres rombiques à l'aide de freecad
+# Creating Rhombic Dodecahedrons with FreeCAD
 
-Vous êtes peutêtre comme moi complètement débutant avec FreeCAD qui est un outil de conception parametrique extremement puissant.
+If you're like me, a complete beginner with FreeCAD, you'll find it's an extremely powerful parametric design tool.
 
-Je voulais aller plus loin dans la modélisation de mes pièces de puzzle en testant un assemblage dans freeCAD.
+I wanted to take my puzzle piece modeling further by testing an assembly in FreeCAD.
 
-Voir pour cela mon [autre article]({% post_url _posts\2021-06-05-dihedral-angle-and-the-spider-slider-puzzle %}) sur le puzzle dit "spider slider". 
+See my [other article]({% post_url _posts\2021-06-05-dihedral-angle-and-the-spider-slider-puzzle %}) about the "spider slider" puzzle.
 
-Pour cela il fallait que je modélise un dodécahedre Rhombique pour pouvoir y positionner mes picèes.
+To do this, I needed to model a Rhombic Dodecahedron to position my pieces.
 
 ![preview](/assets/download/freecad/rhombic-dodecahedron.png)
 
-Je met à dispo le [fichier freeCAD](/assets/download/freecad/rhombic-dodecahedron.FCStd) qui m'a permis de le faire.
+I'm sharing the [FreeCAD file](/assets/download/freecad/rhombic-dodecahedron.FCStd) I used to create it.
 
-* Créer un cube dans part design
-* Positionner des plans de construction sur les trois arretes exterieurs, ces plans doivent être inclinés à 45 degres par rapport aux faces.
-* Utiliser "pocket" pour soustraite ces plans au cube, sur une profondeur de $\frac{\sqrt{2}}{2}$ fois la taille d'un arrête.
-* Utiliser 3 fois un mirroir pour rendre la pièce symétriques sur les trois axes X Y et Z.
-
+* Create a cube in Part Design.
+* Place construction planes on the three outer edges; these planes should be tilted at 45 degrees relative to the faces.
+* Use "pocket" to subtract these planes from the cube, to a depth of $\frac{\sqrt{2}}{2}$ times the edge length.
+* Use the mirror tool three times to make the piece symmetrical along the X, Y, and Z axes.
