@@ -9,7 +9,7 @@ If you're like me, a complete beginner with FreeCAD, you'll find it's an extreme
 
 I wanted to take my puzzle piece modeling further by testing an assembly in FreeCAD.
 
-See my [other article]({% post_url _posts\2021-06-05-dihedral-angle-and-the-spider-slider-puzzle %}) about the "spider slider" puzzle.
+See my [other article](https://sylvain69780.github.io/2021/06/05/dihedral-angle-and-the-spider-slider-puzzle.html) about the "spider slider" puzzle.
 
 To do this, I needed to model a Rhombic Dodecahedron to position my pieces.
 
