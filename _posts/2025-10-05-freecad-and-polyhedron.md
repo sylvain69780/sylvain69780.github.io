@@ -21,3 +21,8 @@ I'm sharing the [FreeCAD file](/assets/download/freecad/rhombic-dodecahedron.FCS
 * Place construction planes on the three outer edges; these planes should be tilted at 45 degrees relative to the faces.
 * Use "pocket" to subtract these planes from the cube, to a depth of $\frac{\sqrt{2}}{2}$ times the edge length.
 * Use the mirror tool three times to make the piece symmetrical along the X, Y, and Z axes.
+
+# References
+
+* [FreeCAD 0.19 Débutant : Datum Plane et système de coordonnées local](https://youtu.be/0PSiFiA2JxI?si=HPDgam6RddYEOJev)
+* [FreeCAD débutant : Formes liées ou "ShapeBinder"](https://youtu.be/KYD9Ojugi8Q?si=J5p7QfEHfU3QuErc)
