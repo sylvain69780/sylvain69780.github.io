@@ -26,3 +26,5 @@ I'm sharing the [FreeCAD file](/assets/download/freecad/rhombic-dodecahedron.FCS
 
 * [FreeCAD 0.19 Débutant : Datum Plane et système de coordonnées local](https://youtu.be/0PSiFiA2JxI?si=HPDgam6RddYEOJev)
 * [FreeCAD débutant : Formes liées ou "ShapeBinder"](https://youtu.be/KYD9Ojugi8Q?si=J5p7QfEHfU3QuErc)
+* [Icosahedron using FreeCAD in under 5 min](https://www.youtube.com/watch?v=tm-JiVusZPA&t=12s)
+* [Regular and Rhombic Dodecahedrons (less than 4 minutes)](https://www.youtube.com/watch?v=yNe30vjTsnA)
