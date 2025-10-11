@@ -9,7 +9,10 @@ If you're like me, a complete beginner with FreeCAD, you'll find it's an extreme
 
 I wanted to take my puzzle piece modeling further by testing an assembly in FreeCAD.
 
-See my [other article](https://sylvain69780.github.io/2021/06/05/dihedral-angle-and-the-spider-slider-puzzle.html) about the Scorpius "spider slider" wood puzzle.
+See my [other article](https://sylvain69780.github.io/2021/06/05/dihedral-angle-and-the-spider-slider-puzzle.html) about the [Scorpius](https://puzzleworld.org/PuzzleWorld/puz/scorpius.htm) wood puzzle.
+
+The photo below shows the model I own, which is the "Spider Slider" version without any beveled parts.  
+It is said that Stewart Coffin only produced 20 of these, which seems quite surprising to me.
 
 ![preview](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769121_202010012502419.png)
 
