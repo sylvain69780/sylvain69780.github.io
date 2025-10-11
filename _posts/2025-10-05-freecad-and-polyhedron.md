@@ -11,6 +11,8 @@ I wanted to take my puzzle piece modeling further by testing an assembly in Free
 
 See my [other article](https://sylvain69780.github.io/2021/06/05/dihedral-angle-and-the-spider-slider-puzzle.html) about the Scorpius "spider slider" wood puzzle.
 
+![preview](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769121_202010012502419.png)
+
 To do this, I needed to model a Rhombic Dodecahedron to position my pieces.
 
 ![preview](/assets/download/freecad/rhombic-dodecahedron.png)
