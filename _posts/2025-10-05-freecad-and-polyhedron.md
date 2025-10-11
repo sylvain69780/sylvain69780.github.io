@@ -30,7 +30,7 @@ Here are the FreeCAD files for constructing the Scorpius puzzle.
 
 [Parscorpius_part.FCStdt](/assets/download/freecad/scorpius_part.FCStd)
 
-[Assemscorpius_assembly.FCStdbly](/assets/download/freecad/scorpius_assembly.FCStd)
+[rhombic-dodecahedron.FCStd](/assets/download/freecad/rhombic-dodecahedron.FCStd)
 
 [scorpius_assembly.FCStd](/assets/download/freecad/scorpius_assembly.FCStd)
 
