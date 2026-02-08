@@ -102,14 +102,6 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 
 ---
 
-### **NATHALIE, LUC, STÉPHANE — Collègues du PV (Scène 2.5)**
-- **Rôle narratif** : Les silencieux actifs. Ils *savent* qu'Olivier se trompe et suppriment ses propositions du PV par raillerie, mais ne disent rien de valeur.
-- **Histoire** : Collègues qui voient clair, qui trouvent bizarre/injuste qu'Olivier mente. Mais plutôt que de dénoncer, ils suppriment en secret son erreur du rapport. Rires nerveux. Cela crée une réalité alternative où Olivier ne sera jamais confronté à ses mensonges.
-- **Caractéristiques** : Complicité passive, rires qui nerveux, corruption petite mais réelle du système.
-- **Arc narratif** : Rébellion mineure et secrète → Aucun impact réel
-
----
-
 ### **JULIEN — Collègue au Café (Scène 5)**
 - **Rôle narratif** : Le public du triomphe d'Olivier.
 - **Histoire** : Collègue ordinaire qui écoute Olivier raconter sa version. Croit peut-être à la légitimité de son discours ("Ah bon ?"). Représente l'extension du ragot et de la mauvaise réputation attachée à Sophie et Thomas.
@@ -123,8 +115,8 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 | Scène | Lieu | Acteurs | Enjeu |
 |-------|------|--------|-------|
 | **1** | Salle de pause | Olivier, Thomas, Marc | Humiliation directe sans CNV. Olivier se moque, Thomas n'ose pas réagir. |
-| **2** | Réunion | Olivier, Sophie, Philippe | Olivier rejette la faute sur Sophie pour son incompétence. Sophie se défend avec des preuves. |
-| **3** | Bureau d'Anne (CNV) | Anne, Olivier, Sophie | Anne "médiatise" le conflit. Olivier se victimise, Anne croit son histoire. Sophie est punie pour sa défense. |
+| **2** | Réunion | Olivier, Sophie, Philippe | Olivier a ignoré les recommandations de Sophie et rejette maintenant la faute sur elle pour ses propres difficultés. |
+| **3** | Bureau d'Anne (CNV) | Anne, Olivier, Sophie | Anne médie le conflit. Olivier se victimise, Anne croit son histoire. Sophie est punie pour sa défense. |
 | **4** | Bureau de Sophie | Sophie seule | Sophie reçoit un email de sanction. Elle doit aider Olivier à finir son boulot. |
 | **5** | Café | Olivier, Thomas, Sophie, Julien et autres | Olivier triomphe et harcèle Sophie publiquement. Personne ne dit rien. |
 
