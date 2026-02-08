@@ -4,10 +4,14 @@ title : "Communication non violente, nouveau totalitarisme"
 tags : societe
 ---
 # La CNV comme bouclier du manipulateur
-## Scénario pour vidéo : "Quand la Communication Non Violente devient l'arme du pervers"
+## Quand la Communication Non Violente devient l'arme du pervers
 
 ### Contexte
-Dans la societe X, la direction veut diffuser la CNV comme culture commune. Tout le monde est forme : employes, managers, et un dispositif de referents CNV est mis en place pour garantir que la methode est respectee au quotidien. Sur le papier, l'intention est saine : apaiser les tensions, favoriser l'ecoute, et rendre le travail plus humain. Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour retourner les regles contre ses victimes, reduire leur capacite a se defendre et imposer sa domination sans jamais avoir l'air agressif ? C'est ce que nous allons decouvrir dans cette histoire.
+Dans la société X, la direction veut diffuser la CNV comme culture commune. Tout le monde est formé : employés, managers, et un dispositif de référents CNV est mis en place pour garantir que la méthode est respectée au quotidien. Sur le papier, l'intention est saine : apaiser les tensions, favoriser l'écoute, et rendre le travail plus humain.
+
+Cependant, la CNV appliquée de manière rigide devient un cadre contraignant : toute parole qui ne suit pas le modèle ("observation / sentiment / besoin / demande") devient suspecte, illégitime, voire "non-bienveillante". Dire simplement "c'est faux" au lieu de "j'ai le besoin de clarifier car cela m'affecte" est marquée comme une faute. La spontanéité devient un signe de toxicité. La conformité au modèle prime sur l'efficacité ou la vérité. Dans ce système, celui qui se conforme au protocole gagne de la crédibilité auprès de l'institution, tandis que celui qui se défend de manière naturelle et directe est puni pour non-conformité.
+
+Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour retourner les règles contre ses victimes, réduire leur capacité à se défendre et imposer sa domination sans jamais avoir l'air agressif ? C'est ce que nous allons découvrir dans cette histoire.
 
 ---
 
