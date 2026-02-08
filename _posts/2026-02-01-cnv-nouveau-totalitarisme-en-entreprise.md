@@ -124,7 +124,6 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 |-------|------|--------|-------|
 | **1** | Salle de pause | Olivier, Thomas, Marc | Humiliation directe sans CNV. Olivier se moque, Thomas n'ose pas réagir. |
 | **2** | Réunion | Olivier, Sophie, Philippe | Olivier rejette la faute sur Sophie pour son incompétence. Sophie se défend avec des preuves. |
-| **2.5** | Rédaction du PV | Nathalie, Philippe, Luc, Stéphane | Les collègues suppriment les propositions d'Olivier dès qu'il quitte la salle. Il n'en saura jamais rien. |
 | **3** | Bureau d'Anne (CNV) | Anne, Olivier, Sophie | Anne "médiatise" le conflit. Olivier se victimise, Anne croit son histoire. Sophie est punie pour sa défense. |
 | **4** | Bureau de Sophie | Sophie seule | Sophie reçoit un email de sanction. Elle doit aider Olivier à finir son boulot. |
 | **5** | Café | Olivier, Thomas, Sophie, Julien et autres | Olivier triomphe et harcèle Sophie publiquement. Personne ne dit rien. |
@@ -147,8 +146,11 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 **THOMAS** *(rougit, mal à l'aise)* :
 "Écoute, ça me met mal à l'aise quand tu..."
 
-**OLIVIER** *(coupe, ton condescendant)* :
-"Oh là là, tu es vraiment susceptible ! C'est de l'humour ! T'as un problème avec la communication positive toi... Faut te détendre !"
+**OLIVIER** *(coupe, ton condescendant puis offensé)* :
+"Oh là là, tu es vraiment susceptible ! C'est de l'humour ! Attends, tu me prêtes des intentions malveillantes là ? Tu crois vraiment que je veux te nuire ? C'est ça que tu penses de moi ? Franchement, ça me blesse... J'essaie juste de créer une bonne ambiance et toi tu m'accuses d'être méchant... Faut te détendre !"
+
+**THOMAS** *(se rétracte, confus)* :
+"Non, non... excuse-moi. T'as raison, je suis trop sensible..."
 
 **MARC** :
 *(mal à l'aise, détourne le regard, ne dit rien)*
@@ -160,67 +162,46 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 **MARC** *(à Thomas, en aparté)* :
 "Tu devrais peut-être lui dire que ça te dérange..."
 
-**THOMAS** :
-"Pour qu'on me dise que je manque d'énergie positive ? Que je suis négatif ? Non merci..."
+**THOMAS** *(hésitant, mal à l'aise)* :
+"Non mais... il a raison en fait. C'est juste de l'humour, je devrais être capable de le comprendre. Le problème c'est moi, je suis trop susceptible... Si je dis quelque chose on va dire que j'interprète mal ses intentions... Et puis imagine qu'il aille voir Anne, la référente CNV ? Elle va me reprocher de lui avoir prêté de mauvaises intentions... Ça pourrait mal tourner pour moi..."
 
 **VOIX OFF / PENSÉE INTÉRIEURE DE THOMAS** :
-*"Si je dis quelque chose, on va dire que je ne sais pas prendre une blague, que je suis toxique..."*
+*"Pourquoi je n'arrive pas à prendre ça pour une blague comme les autres ? Il essaie juste d'être sympa... C'est moi qui ai un problème... Si je me plains, Anne va dire que je fais des interprétations, que je juge, que je ne suis pas bienveillant... Je pourrais être sanctionné pour avoir 'accusé' Olivier..."*
 
 ---
 
-## SCÈNE 2 : La réunion - Projection de sa propre incompétence
+## SCÈNE 2 : La réunion - Refus d'admettre ses propres erreurs
 
 **DÉCOR** : Salle de réunion. Plusieurs collègues présents, dont le Manager.
 
 **PERSONNAGES** : Olivier (le Manipulateur), Sophie (victime 2), Philippe (le Manager), collègues en arrière-plan
 
-**CONTEXTE** : Olivier devait réaliser un dossier client important. Sophie lui avait fourni des données de base en amont, comme convenu.
+**CONTEXTE** : Olivier devait réaliser un dossier client important. Sophie lui avait fourni une analyse préalable détaillée et des recommandations claires sur comment l'utiliser. Olivier a choisi d'ignorer les recommandations de Sophie et d'utiliser l'analyse à sa manière. Maintenant il rencontre des problèmes.
 
 ---
 
 **OLIVIER** *(agité, agressif, tape du poing sur la table)* :
-"Je peux pas bosser dans ces conditions ! Les données que tu m'as filées sont inexploitables ! C'est de la malfaçon ! À cause de toi, je suis en retard sur le dossier client et j'ai l'air d'un con !"
+"Je peux pas bosser dans ces conditions ! L'analyse que tu m'as fournie, c'est trop limité ! Je ne suis pas capable de faire un bon travail avec ça ! À cause de toi, je suis en retard sur le dossier client !"
 
 **SOPHIE** *(surprise, calme)* :
-"Attends, quelles données ? J'ai fourni exactement ce qui était demandé. Regarde, tout est conforme au cahier des charges..."
+"Attends... tu as bien mes recommandations d'utilisation ? Dans le document, je marque clairement comment exploiter les données. J'ai même détaillé l'ordre, étape par étape."
 
-*Sophie sort des documents*
+**OLIVIER** *(défensif, agressif)* :
+"Oui, tes recommandations ! Elles étaient trop compliquées, trop rigides ! J'ai décidé de faire plus efficace à ma manière, en utilisant ton travail différemment. Mais maintenant ça ne marche pas parce que ton analyse n'est pas assez robuste pour mon approche !"
 
-**OLIVIER** *(hausse encore le ton)* :
-"Tu me traites de menteur ?! Tu es AGRESSIF ! Tu m'ATTAQUES au lieu d'assumer ton boulot !"
+**SOPHIE** *(factuelle)* :
+"Non, mon analyse est parfaite pour les recommandations que j'ai données. Tu dois juste les suivre, c'est simple. Tu as essayé une autre approche avec mes données et bien sûr que ça ne marche pas - c'est pas conçu pour ça."
 
-**SOPHIE** :
-"Je ne t'attaque pas, je dis juste que c'est factuellement faux. Voilà les documents, tu peux vérifier..."
-
-**OLIVIER** *(indignation théâtrale)* :
-"Tu vois ! Même là tu continues ! Tu cherches à me faire passer pour un incompétent ! C'est de l'acharnement !"
+**OLIVIER** *(ton menaçant, victimaire)* :
+"Ah, donc c'est MOI qui ai mal fait ? Tu essaies de dire que j'aurais dû aveuglément suivre tes instructions comme un robot ? Tu veux vraiment que j'admette que tu avais raison et que j'ai eu tort ? C'est de l'attaque publique !"
 
 **PHILIPPE** *(mal à l'aise, veut désamorcer)* :
-"Bon, on se calme... On en reparle plus tard..."
+"Bon, peut-être que Sophie pourrait vous montrer comment utiliser l'analyse correctement..."
+
+**OLIVIER** *(coupe, blessé)* :
+"Me montrer ? Donc vous êtes d'accord que c'est MOI le problème ? Et maintenant Sophie va me faire un petit cours ? Franchement, être accusé d'incompétence comme ça devant tout le monde... c'est vraiment blessant. Tu aurais pu mieux préparer ton travail en sachant que d'autres vont l'utiliser différemment. C'est pas à moi de deviner ce que tu voulais..."
 
 *Fin de réunion tendue*
-
----
-
-## SCÈNE 2.5 : Le procès-verbal - Les propositions fantômes
-
-**DÉCOR** : Même salle, 5 minutes après. Olivier est allé chercher un café.
-
----
-
-**NATHALIE** *(relisant ses notes, à Philippe)* :
-"J'efface sa propostion ?"
-
-**PHILIPPE** *(sourire)* :
-"Oui, oui. On la supprime du PV."
-
-**LUC** *(rire)* :
-"Il va checker si c'est fait..."
-
-**STÉPHANE** :
-"'Ouais, on lui dit qu'on y travaille.'"
-
-*Nathalie efface la ligne. Rires.*
 
 ---
 
@@ -235,26 +216,26 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 ### PARTIE A : Olivier se victimise
 
 **OLIVIER** *(voix tremblante, air de victime blessée)* :
-"Je ne peux plus travailler avec lui, il est toxique ! Il m'accuse publiquement, il m'attaque verbalement devant toute l'équipe... Je suis sous pression pour le dossier client et au lieu de m'aider, il m'agresse..."
+"Je ne peux plus travailler avec elle, elle est toxique ! Elle m'accuse publiquement, elle m'attaque verbalement devant toute l'équipe pendant la réunion... Je suis sous pression pour le dossier client et au lieu de m'aider, elle m'harcèle..."
 
 **ANNE** *(empathique, professionnelle)* :
 "Décrivez-moi la situation avec des faits observables"
 
 **OLIVIER** :
-"Il m'a dit que je mentais ! Devant tout le monde ! En réunion ! Alors que j'essayais juste d'expliquer les difficultés que me causait son travail bâclé... J'étais choqué, humilié..."
+"Elle m'a dit que j'avais mal utilisé son travail, que j'aurais dû suivre ses instructions ! Devant tout le monde ! En réunion ! Alors que j'essayais juste d'expliquer les difficultés que je rencontrais... J'étais choqué, humilié..."
 
 *Pause dramatique*
 
-"Je me demande même si c'est pas du sabotage..."
+"Et après, elle continue à insister que c'est de ma faute. Elle me harcèle avec ses recommandations comme si je n'étais pas capable de travailler seul. C'est du harcèlement pur."
 
-**ANNE** *(sourcils froncés)* :
-"Du sabotage ?"
+**ANNE** *(sourcils froncés, prend des notes)* :
+"Du harcèlement... Elle vous force à suivre ses méthodes ?"
 
 **OLIVIER** :
-"Bah oui, pourquoi il me fournirait des données inexploitables sinon ? Et après il m'attaque quand je le signale ? C'est bizarre, non ?"
+"Bah oui, elle me dit que je dois faire comme elle le demande, sinon ça ne marche pas. C'est de la pression constante, de l'humiliation. Et quand je me défends, elle prétend que c'est moi l'agressif. C'est vraiment du harcèlement."
 
 **ANNE** *(prend des notes)* :
-"Je comprends. Je vais échanger avec lui."
+"Je comprends. Je vais échanger avec elle."
 
 ---
 
