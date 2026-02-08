@@ -18,10 +18,16 @@ Aujourd'hui, la CNV est devenue un marché lucratif. Des entreprises entières s
 
 Un écosystème se forme : cabinets de conseil, formateurs certifiés, plateformes de diffusion, réseaux académiques. Tous ont intérêt à maintenir et élargir le marché de la CNV. Critiquer publiquement la CNV, c'est s'opposer à ce réseau. Pourquoi c'est difficile : 
 
+- **Marketing d'entreprise** : Dire qu'on "pratique la CNV" est un argument de vente puissant auprès des clients, des partenaires, et des investisseurs. C'est un signal d'une entreprise "progressiste", "consciente", "bienveillante". Cela améliore la réputation, attire les talent, et rassure les parties prenantes. Les directions défendront donc farouchement cet étiquetage, même si la pratique réelle est détournée.
+
 - **Inversion de l'accusation** : Critiquer la CNV, c'est être tacitement "contre la bienveillance", "pour la violence", "réactionnaire".
+
 - **Autorité morale autoproclamée** : Les promoteurs de la CNV se posent en experts de la bienveillance. Les remettre en question, c'est être discrédité d'avance.
+
 - **Circularité logique** : Si quelqu'un critique la CNV "de manière agressive" (ton direct, preuves factuelles), il ou elle prouve par là même qu'il ou elle "n'a pas compris la CNV" et qu'il ou elle a besoin de formation.
+
 - **Complexité du message** : La CNV se donne pour hermétique à la critique rationnelle ("vous jugez, donc vous n'êtes pas bienveillant").
+
 - **Absence de recours** : Les organisations qui ont investi dans la CNV (l'ont adoptée, formé leurs salariés, embauché des référents) ont des incitations fortes à en nier les dérives.
 
 Résultat : Le lobby CNV est **auto-immunisé contre les critiques empiriques**. Toute dénonciation est requalifiée en manifestation de "toxicité" ou "d'absence de bienveillance".
@@ -31,6 +37,10 @@ Résultat : Le lobby CNV est **auto-immunisé contre les critiques empiriques**.
 Dans la société X, la direction veut diffuser la CNV comme culture commune. Tout le monde est formé : employés, managers, et un dispositif de référents CNV est mis en place pour garantir que la méthode est respectée au quotidien. Sur le papier, l'intention est saine : apaiser les tensions, favoriser l'écoute, et rendre le travail plus humain.
 
 Cependant, la CNV appliquée de manière rigide devient un cadre contraignant : toute parole qui ne suit pas le modèle ("observation / sentiment / besoin / demande") devient suspecte, illégitime, voire "non-bienveillante". Dire simplement "c'est faux" au lieu de "j'ai le besoin de clarifier car cela m'affecte" est marquée comme une faute. La spontanéité devient un signe de toxicité. La conformité au modèle prime sur l'efficacité ou la vérité. Dans ce système, celui qui se conforme au protocole gagne de la crédibilité auprès de l'institution, tandis que celui qui se défend de manière naturelle et directe est puni pour non-conformité.
+
+Marshall Rosenberg lui-même disait : **"Dans la vie, on a le choix entre être heureux ou avoir raison."** Cette citation, présentée comme une sagesse libératrice, cache un piège : face à un manipulateur qui enchaîne les affirmations mensongères, elle encourage la passivité. Elle suggère que défendre la vérité est un combat d'ego, une obstination toxique. Résultat : la victime qui refuse d'accepter le mensonge est culpabilisée pour son attachement aux "faits" plutôt que félicitée pour son intégrité. Le manipulateur, lui, peut mentir librement — toute contestation sera vue comme une preuve que la victime "préfère avoir raison plutôt qu'être heureuse".
+
+La CNV popularise aussi la métaphore du **"vase de besoins"** : chaque personne aurait un vase à remplir avec ses besoins (reconnaissance, justice, respect, etc.), et si un besoin ne peut être satisfait d'une certaine manière, on peut toujours trouver d'autres moyens de remplir le vase. Sur le papier, c'est une invitation à la flexibilité. En pratique, face à un harceleur, cela devient : "Ton besoin de justice n'est pas satisfait ici ? Remplis-le autrement ! Ton besoin de reconnaissance est bafoué ? Va le chercher ailleurs !" Cette philosophie encourage les victimes à **se détacher** des sujets auxquels elles accordent légitimement de l'importance — comme la vérité, l'équité, ou le respect des règles. Au lieu de corriger l'injustice, on invite la victime à l'accepter et à compenser ailleurs. Le manipulateur, pendant ce temps, continue tranquillement ses abus.
 
 #### L'inversion accusatoire et la responsabilité de l'entreprise
 
@@ -273,7 +283,7 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 "Ses difficultés ?! Il m'a accusé publiquement de malfaçon ! J'ai été attaqué injustement ! Mais c'est objectivement faux ! Les chiffres sont là, les documents sont conformes !"
 
 **ANNE** *(soupir patient)* :
-"Vous voyez, vous revenez encore aux 'faits', aux 'documents'... En CNV, on ne dit pas 'c'est faux', on dit 'j'ai vécu la situation différemment'. Vous êtes dans le *jugement*. Peut-être qu'il a effectivement eu des difficultés à exploiter ces données ?"
+"Vous voyez, vous revenez encore aux 'faits', aux 'documents'... En CNV, on ne dit pas 'c'est faux', on dit 'j'ai vécu la situation différemment'. Vous êtes dans le *jugement*. Peut-être qu'il a effectivement eu des difficultés à exploiter ces données ? Marshall Rosenberg disait : 'Dans la vie, on a le choix entre être heureux ou avoir raison.' Là, vous voulez absolument avoir raison..."
 
 **SOPHIE** *(s'énerve)* :
 "Mais... c'est lui qui m'a attaqué le premier ! Publiquement !"
@@ -283,6 +293,12 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 
 **SOPHIE** :
 "Mais il m'a accusé de sabotage !"
+
+**ANNE** *(patient, pédagogique)* :
+"Écoutez... Vous avez un besoin de reconnaissance pour votre travail, c'est légitime. Mais si ce besoin n'est pas satisfait dans cette interaction avec votre collègue, vous pouvez le remplir autrement. Pensez à votre vase de besoins : il peut être rempli de différentes manières. Vous n'êtes pas obligée de vous accrocher à cette situation spécifique..."
+
+**SOPHIE** *(abasourdie)* :
+"Mais... il ment ! C'est pas une question de 'remplir mon vase ailleurs', c'est qu'il m'accuse faussement de sabotage !"
 
 **ANNE** :
 "Il ne vous a pas accusé devant moi. Il a exprimé un questionnement. Vous voyez, vous êtes encore dans l'interprétation..."
