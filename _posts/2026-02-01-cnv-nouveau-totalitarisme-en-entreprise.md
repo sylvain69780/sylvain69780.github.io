@@ -7,9 +7,20 @@ tags : societe
 ## Quand la Communication Non Violente devient l'arme du pervers
 
 ### Contexte
+
+#### La CNV : origines et enjeux économiques
+
+La Communication Non Violente (CNV) a été développée dans les années 1970 par Marshall Rosenberg, un psychologue américain. Son objectif initial était louable : promouvoir une communication basée sur l'empathie, l'écoute active et l'expression des besoins fondamentaux, plutôt que sur la domination ou le jugement. La méthode repose sur un modèle en quatre étapes : observation (sans jugement), sentiment, besoin, et demande spécifique.
+
+Aujourd'hui, la CNV est devenue un marché lucratif. Des entreprises entières se sont construites autour de formations, de certifications, de consultants, de coachs "spécialisés en CNV". Les grandes corporations la promeuvent comme solution miracle aux conflits interpersonnels et au bien-être au travail. Pour une direction, adopter la CNV, c'est afficher une image bienveillante, progressiste, et "consciente". Pour les formateurs et consultants, c'est une rente : formations obligatoires, référents CNV embauchés, accompagnements continus. **Le système s'auto-perpétue parce qu'il est rentable.**
+
+#### La rigidité institutionnelle
+
 Dans la société X, la direction veut diffuser la CNV comme culture commune. Tout le monde est formé : employés, managers, et un dispositif de référents CNV est mis en place pour garantir que la méthode est respectée au quotidien. Sur le papier, l'intention est saine : apaiser les tensions, favoriser l'écoute, et rendre le travail plus humain.
 
 Cependant, la CNV appliquée de manière rigide devient un cadre contraignant : toute parole qui ne suit pas le modèle ("observation / sentiment / besoin / demande") devient suspecte, illégitime, voire "non-bienveillante". Dire simplement "c'est faux" au lieu de "j'ai le besoin de clarifier car cela m'affecte" est marquée comme une faute. La spontanéité devient un signe de toxicité. La conformité au modèle prime sur l'efficacité ou la vérité. Dans ce système, celui qui se conforme au protocole gagne de la crédibilité auprès de l'institution, tandis que celui qui se défend de manière naturelle et directe est puni pour non-conformité.
+
+#### L'inversion accusatoire et la responsabilité de l'entreprise
 
 Cette rigidité crée un terrain idéal pour l'inversion accusatoire : le pervers narcissique peut attaquer brutalement, puis se victimiser en invoquant la CNV. La victime, elle, est punie pour sa défense "non-conforme". Ainsi, l'agresseur devient victime et la victime devient coupable — le système institutionnel bascule sans même le réaliser.
 
