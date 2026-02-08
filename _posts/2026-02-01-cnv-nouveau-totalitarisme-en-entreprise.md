@@ -14,6 +14,18 @@ La Communication Non Violente (CNV) a été développée dans les années 1970 p
 
 Aujourd'hui, la CNV est devenue un marché lucratif. Des entreprises entières se sont construites autour de formations, de certifications, de consultants, de coachs "spécialisés en CNV". Les grandes corporations la promeuvent comme solution miracle aux conflits interpersonnels et au bien-être au travail. Pour une direction, adopter la CNV, c'est afficher une image bienveillante, progressiste, et "consciente". Pour les formateurs et consultants, c'est une rente : formations obligatoires, référents CNV embauchés, accompagnements continus. **Le système s'auto-perpétue parce qu'il est rentable.**
 
+#### Le lobby CNV et l'immunité à la critique
+
+Un écosystème se forme : cabinets de conseil, formateurs certifiés, plateformes de diffusion, réseaux académiques. Tous ont intérêt à maintenir et élargir le marché de la CNV. Critiquer publiquement la CNV, c'est s'opposer à ce réseau. Pourquoi c'est difficile : 
+
+- **Inversion de l'accusation** : Critiquer la CNV, c'est être tacitement "contre la bienveillance", "pour la violence", "réactionnaire".
+- **Autorité morale autoproclamée** : Les promoteurs de la CNV se posent en experts de la bienveillance. Les remettre en question, c'est être discrédité d'avance.
+- **Circularité logique** : Si quelqu'un critique la CNV "de manière agressive" (ton direct, preuves factuelles), il ou elle prouve par là même qu'il ou elle "n'a pas compris la CNV" et qu'il ou elle a besoin de formation.
+- **Complexité du message** : La CNV se donne pour hermétique à la critique rationnelle ("vous jugez, donc vous n'êtes pas bienveillant").
+- **Absence de recours** : Les organisations qui ont investi dans la CNV (l'ont adoptée, formé leurs salariés, embauché des référents) ont des incitations fortes à en nier les dérives.
+
+Résultat : Le lobby CNV est **auto-immunisé contre les critiques empiriques**. Toute dénonciation est requalifiée en manifestation de "toxicité" ou "d'absence de bienveillance".
+
 #### La rigidité institutionnelle
 
 Dans la société X, la direction veut diffuser la CNV comme culture commune. Tout le monde est formé : employés, managers, et un dispositif de référents CNV est mis en place pour garantir que la méthode est respectée au quotidien. Sur le papier, l'intention est saine : apaiser les tensions, favoriser l'écoute, et rendre le travail plus humain.
