@@ -244,45 +244,39 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 **SOPHIE** *(entre dans le bureau, tendue)* :
 
 **ANNE** :
-"Bonjour, asseyez-vous. Suite à l'incident en réunion, nous devons en parler."
+"Bonjour, asseyez-vous. Suite à l'incident en réunion, nous devons en parler. Olivier dit que vous le harcèlez avec vos recommandations, que vous l'humiliez publiquement..."
+
+**SOPHIE** *(surprise, défend-elle)* :
+"Me harceler ? Non, c'est l'inverse ! Il a ignoré mes recommandations d'utilisation. Je lui avais expliqué comment utiliser l'analyse, étape par étape. Il a décidé de faire à sa manière et maintenant il a des problèmes. En réunion, il m'a accusé d'avoir fourni du travail inutilisable. J'ai juste expliqué que mes recommandations étaient claires et que s'il les suivait, ça marcherait."
+
+**ANNE** *(ton neutre, note)* :
+"Vous lui avez expliqué qu'il devait suivre VOS recommandations ?"
 
 **SOPHIE** :
-"Mais c'est faux ! C'est lui qui devait faire le dossier client, c'est SA mission ! Moi j'ai juste fourni les données de base comme prévu. Et elles sont correctes ! Regardez, voici les documents..."
+"Oui, parce qu'elles sont là pour ça ! C'est pas du harcèlement, c'est de l'aide ! Il rencontrait des problèmes et je lui proposais la solution."
 
-*Sophie tend des documents*
+**ANNE** *(ton pédagogique, délibéré)* :
+"Vous voyez, c'est intéressant... Olivier ressent comme du harcèlement cette insistance à ce qu'il suive votre méthode. Pour lui, c'est de la pression, de l'humiliation. Vous lui imposiez votre façon de faire."
 
-**ANNE** :
-"Vous avez dit qu'il mentait en réunion ?"
-
-**SOPHIE** :
-"J'ai dit que son accusation était fausse, les documents le prouvent, regardez : tout est conforme..."
-
-**ANNE** *(ton pédagogique)* :
-"Vous comprenez que traiter quelqu'un de menteur n'est pas conforme à la CNV ? Vous auriez dû exprimer votre ressenti plutôt que juger... Comment vous êtes-vous senti quand il a exprimé ses difficultés ?"
-
-**SOPHIE** *(incrédule)* :
-"Ses difficultés ?! Il m'a accusé publiquement de malfaçon ! J'ai été attaqué injustement ! Mais c'est objectivement faux ! Les chiffres sont là, les documents sont conformes !"
+**SOPHIE** *(frustrée)* :
+"Mais ma méthode MARCHE ! C'est pas imposer, c'est proposer une solution à quelqu'un qui a un problème !"
 
 **ANNE** *(soupir patient)* :
-"Vous voyez, vous revenez encore aux 'faits', aux 'documents'... En CNV, on ne dit pas 'c'est faux', on dit 'j'ai vécu la situation différemment'. Vous êtes dans le *jugement*. Peut-être qu'il a effectivement eu des difficultés à exploiter ces données ? Marshall Rosenberg disait : 'Dans la vie, on a le choix entre être heureux ou avoir raison.' Là, vous voulez absolument avoir raison..."
+"Vous voyez, vous revenez encore aux 'résultats', à qui a 'raison'... En CNV, on ne dit pas 'tu dois faire ça'. On exprime un besoin et on propose, sans exiger. Là, il ressent de l'obligation. Marshall Rosenberg disait : 'Dans la vie, on a le choix entre être heureux ou avoir raison.' Olivier avait besoin de soutien moral, pas de cours magistral sur ses erreurs."
 
 **SOPHIE** *(s'énerve)* :
-"Mais... c'est lui qui m'a attaqué le premier ! Publiquement !"
+"Mais je lui PROPOSAIS une solution ! C'est pas du harcèlement !"
 
 **ANNE** *(ton ferme)* :
-"Justement, vous êtes dans la *réaction*. En CNV, on ne parle pas de 'lui d'abord, moi ensuite'. Il vous a fait part de ses difficultés, peut-être maladroitement, et vous avez réagi de manière agressive. Chacun est responsable de ses émotions. Ses mots ne peuvent pas *vous faire* ressentir quoi que ce soit, c'est votre interprétation."
-
-**SOPHIE** :
-"Mais il m'a accusé de sabotage !"
-
-**ANNE** *(patient, pédagogique)* :
-"Écoutez... Vous avez un besoin de reconnaissance pour votre travail, c'est légitime. Mais si ce besoin n'est pas satisfait dans cette interaction avec votre collègue, vous pouvez le remplir autrement. Pensez à votre vase de besoins : il peut être rempli de différentes manières. Vous n'êtes pas obligée de vous accrocher à cette situation spécifique..."
+"Vous êtes dans le jugement. Vous aviez décidé qu'il avait 'mal fait' et vous placiez votre méthode au-dessus de la sienne. En CNV, toutes les approches sont valides. Il y a plusieurs façons de faire. Olivier tentait sa propre approche, c'était son droit, et vous lui avez littéralement imposé vos recommandations en réunion."
 
 **SOPHIE** *(abasourdie)* :
-"Mais... il ment ! C'est pas une question de 'remplir mon vase ailleurs', c'est qu'il m'accuse faussement de sabotage !"
+"Imposé ? Il me demandait de l'aide ! Et ensuite il m'accuse d'avoir fourni du travail inutile..."
 
-**ANNE** :
-"Il ne vous a pas accusé devant moi. Il a exprimé un questionnement. Vous voyez, vous êtes encore dans l'interprétation..."
+**ANNE** *(patient, pédagogique)* :
+"Écoutez... Olivier a un besoin d'autonomie, de reconnaissance pour son travail. Vous, vous aviez un besoin d'être reconnue comme experte. Ces deux besoins se sont heurtés. Vous auriez pu remplir votre besoin de reconnaissance ailleurs plutôt que d'insister auprès de lui. Pensez à votre vase de besoins..."
+
+*Sophie regarde Anne, incrédule*
 
 ---
 
@@ -291,10 +285,16 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 *Olivier revient dans le bureau*
 
 **OLIVIER** *(soupir théâtral, air blessé)* :
-"Vous voyez ? Même maintenant il m'accuse... Il me traite de menteur... Je me sens vraiment en danger psychologique avec lui. Comment je peux travailler sereinement sur le dossier client dans ces conditions ?"
+"Vous voyez ? Même maintenant elle continue... Elle dit que c'est de ma faute, que j'aurais dû faire exactement comme elle le voulait. Elle ne me laisse aucune autonomie, aucune marge de manœuvre. C'est épuisant... Je me sens vraiment harcelé psychologiquement. Comment je peux travailler sereinement sur ce dossier dans ces conditions ?"
 
 **ANNE** *(à Sophie, ton ferme et déçu)* :
-"Vous voyez l'impact de vos paroles ? Votre collègue est sous pression, il avait besoin de soutien, et vous l'avez attaqué."
+"Vous voyez l'impact de votre posture ? Votre collègue avait besoin de soutien, de confiance en ses capacités. Au lieu de cela, vous avez imposé votre méthode, vous l'avez placé en situation d'échec. Vous comprenez pourquoi il ressent cela comme du harcèlement ?"
+
+**SOPHIE** *(incrédule, cherche les mots)* :
+"Mais... je... je voulais juste..."
+
+**ANNE** *(coupe, professionnelle)* :
+"Vous vouliez aider, je le sais. Mais votre besoin d'avoir raison a pris le dessus sur le besoin d'autonomie d'Olivier. Il faut travailler là-dessus."
 
 *Sophie baisse la tête, défaite*
 
@@ -344,24 +344,24 @@ Cordialement,
 ---
 
 **OLIVIER** *(au café, avec d'autres collègues, détendu, souriant)* :
-"Ouais, il a des problèmes ce gars... Heureusement qu'Anne a su gérer. Il est vraiment toxique, agressif... En plus il fait du boulot bâclé et après il s'énerve quand on le lui dit... Faut faire gaffe avec lui."
+"Ouais, elle a des problèmes cette nana... Heureusement qu'Anne a su gérer. Elle est vraiment toxique, contrôlante... Elle impose sa façon de faire à tout le monde et après elle s'énerve quand tu veux faire autrement... Faut faire gaffe avec elle."
 
 **JULIEN** :
-"Ah bon ?"
+"Ah bon ? Qui ça ?"
 
 **OLIVIER** :
-"Ouais, il m'a accusé publiquement de mentir ! Genre vraiment violent... Alors que j'essayais juste d'expliquer que ses données étaient inexploitables... Mais bon, le management lui a proposé un accompagnement, on va voir s'il s'améliore..."
+"Sophie. En réunion, elle m'a humilié publiquement parce que j'utilisais pas sa méthode exactement comme elle voulait ! Genre vraiment agressif, devant tout le monde... Alors que j'essayais juste de faire mon travail à ma façon. C'est du harcèlement pur ! Mais bon, le management lui a proposé un accompagnement pour apprendre à mieux communiquer, on va voir si elle s'améliore..."
 
 *Thomas est à la même table, baisse les yeux, mal à l'aise*
 
 **OLIVIER** *(le regarde en souriant, tape sur son épaule)* :
-"Hein Thomas, tu as vu comment il était agressif en réunion ? Bon après toi t'es pas comme ça, t'es cool toi ! T'es quelqu'un de positif !"
+"Hein Thomas, tu as vu comment elle était agressive en réunion ? Bon après toi t'es pas comme ça, t'es cool toi ! T'es quelqu'un de positif !"
 
 *Thomas se crispe légèrement sous la tape*
 
 ---
 
-**Au fond du café, Sophie (scène 2) arrive pour prendre un café**
+**Au fond du café, Sophie arrive pour prendre un café**
 
 **OLIVIER** *(la voit, hausse légèrement la voix, sourire en coin)* :
 "Ah tiens, justement... Alors, ça avance cette formation CNV ?"
