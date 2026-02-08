@@ -30,6 +30,72 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 
 ---
 
+## Personnages et leurs rôles
+
+### **OLIVIER — Le Manipulateur**
+- **Rôle narratif** : Protagoniste du harcèlement moral. Pervers narcissique intelligent et charismatique.
+- **Histoire** : Ancien salarié lambda devenu "performant" en instrumentalisant ses collègues. Découvert que l'humiliation fonctionne bien, que peu osent répliquer, et que les faibles sont faciles à dominer. Depuis la mise en place de la CNV, il a compris qu'il pouvait se victimiser pour échapper à toute critique. N'a aucun remords.
+- **Caractéristiques** : Souriant, détendu, convaincant. À l'aise en public et au café. Jongle entre l'agressivité directe (quand pas de témoin) et la victimisation (devant l'autorité).
+- **Arc narratif** : Humiliation → Inversion accusatoire → Triomphe au café
+
+---
+
+### **THOMAS — Victor de la Scène 1**
+- **Rôle narratif** : Victime silencieuse du mépris. Représente ceux qui abdiquent avant même de se battre.
+- **Histoire** : Collègue normal, un peu introverti. Harcelé régulièrement par Olivier mais trop peur de "passer pour toxique" s'il se défend. A appris à se faire petit. Témoin silencieux de ce qui arrive aussi à Sophie.
+- **Caractéristiques** : Rougit facilement, mal à l'aise, détourne le regard. Cherche des excuses pour Olivier ("c'est de l'humour") même quand humilié.
+- **Arc narratif** : Humiliation directe → Auto-censure → Passivité face au harcèlement de Sophie
+
+---
+
+### **MARC — Collègue Témoin (Scène 1)**
+- **Rôle narratif** : Le spectateur passif. Représente le silence des témoins.
+- **Histoire** : Collègue ordinaire, pas méchant. Voit l'humiliation de Thomas, ressent le malaise, mais ne dit rien. Peur de devenir la prochaine cible s'il intervient. Essaie une fois de parler à Thomas en aparté, mais abdique aussi.
+- **Caractéristiques** : Détourne le regard, rire nerveux, évite l'engagement.
+- **Arc narratif** : Malaise → Tentative faible d'aide → Silence définitif
+
+---
+
+### **SOPHIE — Victime de la Scène 2**
+- **Rôle narratif** : Victime légitime qui tente de se défendre avec des preuves. Punie pour avoir osé résister.
+- **Histoire** : Salariée compétente, professionnelle. A fourni exactement ce qui était demandé. Quand accusée injustement en réunion, elle se defend avec les documents. Grave erreur : elle a cru que les faits/preuves comptaient. Sanctionnée pour "agressivité" et forcée d'aider Olivier à terminer son travail.
+- **Caractéristiques** : Calme, logique, méthodique. Peut devenir frustrée quand confrontée à l'absurdité. Finale = effondrée, les mains dans les cheveux.
+- **Arc narratif** : Travail correct → Accusation injuste → Tentative de défense → Sanction → Défaite totale
+
+---
+
+### **PHILIPPE — Le Manager Faible**
+- **Rôle narratif** : L'autorité qui abdique. Représente l'incapacité/refus du management à agir.
+- **Histoire** : Manager stressé, ne veut pas de problèmes. Préfère "désamorcer" que trancher. Quand la réunion déraille, cherche à l'éviter plutôt que de soutenir Sophie. Finit par sanctionner la victime car c'est plus "conforme" au système CNV. Peut-être aussi parcequ'il a peur d'Olivier ou de déplaire à la direction.
+- **Caractéristiques** : Mal à l'aise lors des tensions, cherche des faux consensus, délègue sa responsabilité à Anne la référente CNV.
+- **Arc narratif** : Témoin de l'abus → Évitement → Lâcheté → Sanction de la victime
+
+---
+
+### **ANNE — La Référente CNV**
+- **Rôle narratif** : L'agent du système aveuglé. De bonne foi mais instrumentalisée.
+- **Histoire** : Véritablement convaincue de la CNV, peut-être formée récemment ou récemment promue "référente". Elle veut bien faire, elle est empathique, professionnelle. Mais elle n'a pas d'expérience avec les pervers narcissiques. Olivier joue magnifiquement la victime, elle le croit. Sophie, en se défendant avec des preuves, semble "agressive" et "ancrée dans le jugement" aux yeux d'Anne. Résultat : elle sanctionne la victime et récompense le harceleur par son écoute compatissante.
+- **Caractéristiques** : Calme, pédagogue, citations CNV. Le ton patient et mesuré du "je comprends".
+- **Arc narratif** : Olivier la manipule → Elle culpabilise Sophie → Elle valide l'inversion accusatoire
+
+---
+
+### **NATHALIE, LUC, STÉPHANE — Collègues du PV (Scène 2.5)**
+- **Rôle narratif** : Les silencieux actifs. Ils *savent* qu'Olivier se trompe et suppriment ses propositions du PV par raillerie, mais ne disent rien de valeur.
+- **Histoire** : Collègues qui voient clair, qui trouvent bizarre/injuste qu'Olivier mente. Mais plutôt que de dénoncer, ils suppriment en secret son erreur du rapport. Rires nerveux. Cela crée une réalité alternative où Olivier ne sera jamais confronté à ses mensonges.
+- **Caractéristiques** : Complicité passive, rires qui nerveux, corruption petite mais réelle du système.
+- **Arc narratif** : Rébellion mineure et secrète → Aucun impact réel
+
+---
+
+### **JULIEN — Collègue au Café (Scène 5)**
+- **Rôle narratif** : Le public du triomphe d'Olivier.
+- **Histoire** : Collègue ordinaire qui écoute Olivier raconter sa version. Croit peut-être à la légitimité de son discours ("Ah bon ?"). Représente l'extension du ragot et de la mauvaise réputation attachée à Sophie et Thomas.
+- **Caractéristiques** : Question naïve, réceptif.
+- **Arc narratif** : Auditeur neutre → Convertisseur à la version d'Olivier
+
+---
+
 ## Résumé des scènes
 
 | Scène | Lieu | Acteurs | Enjeu |
@@ -222,6 +288,10 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 "Vous voyez l'impact de vos paroles ? Votre collègue est sous pression, il avait besoin de soutien, et vous l'avez attaqué."
 
 *Sophie baisse la tête, défaite*
+
+---
+
+## SCÈNE 4 : Bureau de Sophie - La Sanction
 
 **DÉCOR** : Bureau de Sophie. Seule. Écran d'ordinateur.
 
