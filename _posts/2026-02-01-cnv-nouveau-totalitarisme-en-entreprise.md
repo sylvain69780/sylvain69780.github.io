@@ -11,7 +11,24 @@ Dans la société X, la direction veut diffuser la CNV comme culture commune. To
 
 Cependant, la CNV appliquée de manière rigide devient un cadre contraignant : toute parole qui ne suit pas le modèle ("observation / sentiment / besoin / demande") devient suspecte, illégitime, voire "non-bienveillante". Dire simplement "c'est faux" au lieu de "j'ai le besoin de clarifier car cela m'affecte" est marquée comme une faute. La spontanéité devient un signe de toxicité. La conformité au modèle prime sur l'efficacité ou la vérité. Dans ce système, celui qui se conforme au protocole gagne de la crédibilité auprès de l'institution, tandis que celui qui se défend de manière naturelle et directe est puni pour non-conformité.
 
+Cette rigidité crée un terrain idéal pour l'inversion accusatoire : le pervers narcissique peut attaquer brutalement, puis se victimiser en invoquant la CNV. La victime, elle, est punie pour sa défense "non-conforme". Ainsi, l'agresseur devient victime et la victime devient coupable — le système institutionnel bascule sans même le réaliser.
+
+**La responsabilité de l'entreprise est ici centrale.** Quand la direction met en place un système rigide de CNV sans en superviser les applications, elle crée involontairement une arme pour les manipulateurs. Pire : si elle *sait* qu'un harceleur profite du système mais ne fait rien, elle devient complice. L'entreprise qui tolère un tel détournement assume la responsabilité des dégâts : burn out des victimes, stress chronique, démissions, dépression, parfois même dommages psychologiques durables. Juridiquement, c'est du harcèlement moral. Moralement, c'est une trahison de ceux qui ont fait confiance à la bonne foi du système.
+
 Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour retourner les règles contre ses victimes, réduire leur capacité à se défendre et imposer sa domination sans jamais avoir l'air agressif ? C'est ce que nous allons découvrir dans cette histoire.
+
+---
+
+## Résumé des scènes
+
+| Scène | Lieu | Acteurs | Enjeu |
+|-------|------|--------|-------|
+| **1** | Salle de pause | Olivier, Thomas, Marc | Humiliation directe sans CNV. Olivier se moque, Thomas n'ose pas réagir. |
+| **2** | Réunion | Olivier, Sophie, Philippe | Olivier rejette la faute sur Sophie pour son incompétence. Sophie se défend avec des preuves. |
+| **2.5** | Rédaction du PV | Nathalie, Philippe, Luc, Stéphane | Les collègues suppriment les propositions d'Olivier dès qu'il quitte la salle. Il n'en saura jamais rien. |
+| **3** | Bureau d'Anne (CNV) | Anne, Olivier, Sophie | Anne "médiatise" le conflit. Olivier se victimise, Anne croit son histoire. Sophie est punie pour sa défense. |
+| **4** | Bureau de Sophie | Sophie seule | Sophie reçoit un email de sanction. Elle doit aider Olivier à finir son boulot. |
+| **5** | Café | Olivier, Thomas, Sophie, Julien et autres | Olivier triomphe et harcèle Sophie publiquement. Personne ne dit rien. |
 
 ---
 
