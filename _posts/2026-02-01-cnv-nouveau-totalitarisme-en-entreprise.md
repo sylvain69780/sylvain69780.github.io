@@ -19,35 +19,35 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 
 **DÉCOR** : Salle de pause / machine à café. Ambiance décontractée.
 
-**PERSONNAGES** : Le Manipulateur, la Victime (collègue au physique gringalet), un Collègue témoin
+**PERSONNAGES** : Olivier (le Manipulateur), Thomas (victime 1), Marc (un Collègue témoin)
 
 ---
 
-**MANIPULATEUR** *(riant, détendu)* :  
+**OLIVIER** *(riant, détendu)* :  
 "Ah ah, regarde-toi, on dirait un spaghetti ! Franchement, je voudrais pas te voir nu !"
 
-*Rires du manipulateur*
+*Rires d'Olivier*
 
-**VICTIME** *(rougit, mal à l'aise)* :  
+**THOMAS** *(rougit, mal à l'aise)* :
 "Écoute, ça me met mal à l'aise quand tu..."
 
-**MANIPULATEUR** *(coupe, ton condescendant)* :  
+**OLIVIER** *(coupe, ton condescendant)* :
 "Oh là là, tu es vraiment susceptible ! C'est de l'humour ! T'as un problème avec la communication positive toi... Faut te détendre !"
 
-**COLLÈGUE TÉMOIN** :  
+**MARC** :
 *(mal à l'aise, détourne le regard, ne dit rien)*
 
 ---
 
 ### TRANSITION : Plus tard, même jour
 
-**COLLÈGUE TÉMOIN** *(à la Victime, en aparté)* :  
+**MARC** *(à Thomas, en aparté)* :
 "Tu devrais peut-être lui dire que ça te dérange..."
 
-**VICTIME** :  
+**THOMAS** :
 "Pour qu'on me dise que je manque d'énergie positive ? Que je suis négatif ? Non merci..."
 
-**VOIX OFF / PENSÉE INTÉRIEURE DE LA VICTIME** :  
+**VOIX OFF / PENSÉE INTÉRIEURE DE THOMAS** :
 *"Si je dis quelque chose, on va dire que je ne sais pas prendre une blague, que je suis toxique..."*
 
 ---
@@ -56,30 +56,30 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 
 **DÉCOR** : Salle de réunion. Plusieurs collègues présents, dont le Manager.
 
-**PERSONNAGES** : Le Manipulateur, la Victime (différente de la scène 1), le Manager, collègues en arrière-plan
+**PERSONNAGES** : Olivier (le Manipulateur), Sophie (victime 2), Philippe (le Manager), collègues en arrière-plan
 
-**CONTEXTE** : Le manipulateur devait réaliser un dossier client important. La victime lui avait fourni des données de base en amont, comme convenu.
+**CONTEXTE** : Olivier devait réaliser un dossier client important. Sophie lui avait fourni des données de base en amont, comme convenu.
 
 ---
 
-**MANIPULATEUR** *(agité, agressif, tape du poing sur la table)* :  
+**OLIVIER** *(agité, agressif, tape du poing sur la table)* :
 "Je peux pas bosser dans ces conditions ! Les données que tu m'as filées sont inexploitables ! C'est de la malfaçon ! À cause de toi, je suis en retard sur le dossier client et j'ai l'air d'un con !"
 
-**VICTIME** *(surprise, calme)* :  
+**SOPHIE** *(surprise, calme)* :
 "Attends, quelles données ? J'ai fourni exactement ce qui était demandé. Regarde, tout est conforme au cahier des charges..."
 
-*La victime sort des documents*
+*Sophie sort des documents*
 
-**MANIPULATEUR** *(hausse encore le ton)* :  
+**OLIVIER** *(hausse encore le ton)* :
 "Tu me traites de menteur ?! Tu es AGRESSIF ! Tu m'ATTAQUES au lieu d'assumer ton boulot !"
 
-**VICTIME** :  
+**SOPHIE** :
 "Je ne t'attaque pas, je dis juste que c'est factuellement faux. Voilà les documents, tu peux vérifier..."
 
-**MANIPULATEUR** *(indignation théâtrale)* :  
+**OLIVIER** *(indignation théâtrale)* :
 "Tu vois ! Même là tu continues ! Tu cherches à me faire passer pour un incompétent ! C'est de l'acharnement !"
 
-**MANAGER** *(mal à l'aise, veut désamorcer)* :  
+**PHILIPPE** *(mal à l'aise, veut désamorcer)* :
 "Bon, on se calme... On en reparle plus tard..."
 
 *Fin de réunion tendue*
@@ -88,76 +88,23 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 
 ## SCÈNE 2.5 : Le procès-verbal - Les propositions fantômes
 
-**DÉCOR** : Même salle de réunion, 5 minutes après. Le manipulateur est allé chercher un café. Les collègues et la secrétaire restent pour remplir le procès-verbal.
-
-**PERSONNAGES** : La Secrétaire (qui prend les notes), le Manager, deux Collègues A et B
+**DÉCOR** : Même salle, 5 minutes après. Olivier est allé chercher un café.
 
 ---
 
-**SECRÉTAIRE** *(en tapant sur son ordinateur, lisant ses notes)* :  
-"Alors, récapitulatif : dossier client en retard, données à vérifier... Le manipulateur a proposé 'Action : audit complets des données fournies par l'équipe'. Je l'ajoute ?"
+**NATHALIE** *(relisant ses notes, à Philippe)* :
+"J'efface sa propostion ?"
 
-**MANAGER** *(sourire las)* :  
-"Ouais, mets-la."
+**PHILIPPE** *(sourire)* :
+"Oui, oui. On la supprime du PV."
 
-*La secrétaire tape. Les collègues échangent des coups d'œil amusés*
+**LUC** *(rire)* :
+"Il va checker si c'est fait..."
 
-**COLLÈGUE A** *(rire étouffé)* :  
-"On peut faire ça maintenant ?"
+**STÉPHANE** :
+"'Ouais, on lui dit qu'on y travaille.'"
 
-**COLLÈGUE B** *(tire une chaise près de la secrétaire)* :  
-"Oui, allez-y."
-
-*La secrétaire place le curseur sur la ligne "Action : audit complets des données", fait glisser jusqu'à la supprimer en souriant*
-
-**SECRÉTAIRE** :  
-"Voilà. Prochaine action ?"
-
-**MANAGER** *(approbateur)* :  
-"Oui, celle-là c'était juste du... waouh, il n'a vraiment rien compris au probème."
-
-**COLLÈGUE A** :  
-"Aucune de ses 'solutions' n'a jamais marché de toute façon. Ça fait trois mois qu'on efface ses trucs."
-
-**COLLÈGUE B** *(en riant)* :  
-"Il croit tellement que ça va être écrit quelque part et que les gens vont la suivre... Bravo, tu as parlé, ton truc est au procès-verbal... Ah non, attends, tu as le dos tourné !"
-
-*Rires étouffés autour de la table*
-
-**SECRÉTAIRE** :  
-"Bon, l'action officielle : 'Clarifier les spécifications du cahier des charges'."
-
-*Elle tape, puis ajoute en aparté à la manager*
-
-"Au fait, cette dernière semaine il a proposé cinq actions. Vous savez combien sont restées au PV définitif ?"
-
-**MANAGER** :  
-"Aucune ?"
-
-**SECRÉTAIRE** :  
-"Aucune. Zéro. Elles disparaissaient dès qu'il quittait la salle."
-
-*Nouveau rire, complice et fatigué*
-
-**COLLÈGUE A** :  
-"Le pire c'est qu'il croit vraiment que ses idées vont être implémentées. Regarde, la semaine dernière il m'a demandé l'avancement de son 'plan de restructuration des fichiers clients'..."
-
-**COLLÈGUE B** :  
-"Celui qu'on a jamais mis en production ?"
-
-**COLLÈGUE A** :  
-"Voilà. Il m'a dit 'tu me tiendras au courant de la progression.' J'ai huppé. Depuis il me pose des questions... Comment on lui dit qu'on a jamais commencé ?"
-
-**MANAGER** *(soupir)* :  
-"Vous ne lui dites rien. On continue comme ça. Il remplit sa case 'propositions de management', y croit, on le note, et boum, supprimé. Tout le monde est content."
-
-*Les collègues hochent la tête. Un silence amusé*
-
-**SECRÉTAIRE** :  
-"C'est pas très CNV, ça..."
-
-**MANAGER** *(au 4e mur)* :  
-"Non. Mais c'est efficace."
+*Nathalie efface la ligne. Rires.*
 
 ---
 
@@ -165,106 +112,102 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 
 **DÉCOR** : Bureau de la référente CNV. Atmosphère "bienveillante" avec affiches CNV, citations inspirantes.
 
-**PERSONNAGES** : La Référente CNV, le Manipulateur, puis la Victime (convoquée séparément)
+**PERSONNAGES** : Anne (la Référente CNV), Olivier (le Manipulateur), puis Sophie (convoquée séparément)
 
 ---
 
-### PARTIE A : Le manipulateur se victimise
+### PARTIE A : Olivier se victimise
 
-**MANIPULATEUR** *(voix tremblante, air de victime blessée)* :  
+**OLIVIER** *(voix tremblante, air de victime blessée)* :
 "Je ne peux plus travailler avec lui, il est toxique ! Il m'accuse publiquement, il m'attaque verbalement devant toute l'équipe... Je suis sous pression pour le dossier client et au lieu de m'aider, il m'agresse..."
 
-**RÉFÉRENTE CNV** *(empathique, professionnelle)* :  
+**ANNE** *(empathique, professionnelle)* :
 "Décrivez-moi la situation avec des faits observables"
 
-**MANIPULATEUR** :  
+**OLIVIER** :
 "Il m'a dit que je mentais ! Devant tout le monde ! En réunion ! Alors que j'essayais juste d'expliquer les difficultés que me causait son travail bâclé... J'étais choqué, humilié..."
 
 *Pause dramatique*
 
 "Je me demande même si c'est pas du sabotage..."
 
-**RÉFÉRENTE** *(sourcils froncés)* :  
+**ANNE** *(sourcils froncés)* :
 "Du sabotage ?"
 
-**MANIPULATEUR** :  
+**OLIVIER** :
 "Bah oui, pourquoi il me fournirait des données inexploitables sinon ? Et après il m'attaque quand je le signale ? C'est bizarre, non ?"
 
-**RÉFÉRENTE** *(prend des notes)* :  
+**ANNE** *(prend des notes)* :
 "Je comprends. Je vais échanger avec lui."
 
 ---
 
-### PARTIE B : La victime convoquée
+### PARTIE B : Sophie convoquée
 
-**VICTIME** *(entre dans le bureau, tendue)* :  
+**SOPHIE** *(entre dans le bureau, tendue)* :
 
-**RÉFÉRENTE CNV** :  
+**ANNE** :
 "Bonjour, asseyez-vous. Suite à l'incident en réunion, nous devons en parler."
 
-**VICTIME** :  
+**SOPHIE** :
 "Mais c'est faux ! C'est lui qui devait faire le dossier client, c'est SA mission ! Moi j'ai juste fourni les données de base comme prévu. Et elles sont correctes ! Regardez, voici les documents..."
 
-*Tend des documents*
+*Sophie tend des documents*
 
-**RÉFÉRENTE** :  
+**ANNE** :
 "Vous avez dit qu'il mentait en réunion ?"
 
-**VICTIME** :  
+**SOPHIE** :
 "J'ai dit que son accusation était fausse, les documents le prouvent, regardez : tout est conforme..."
 
-**RÉFÉRENTE** *(ton pédagogique)* :  
+**ANNE** *(ton pédagogique)* :
 "Vous comprenez que traiter quelqu'un de menteur n'est pas conforme à la CNV ? Vous auriez dû exprimer votre ressenti plutôt que juger... Comment vous êtes-vous senti quand il a exprimé ses difficultés ?"
 
-**VICTIME** *(incrédule)* :  
+**SOPHIE** *(incrédule)* :
 "Ses difficultés ?! Il m'a accusé publiquement de malfaçon ! J'ai été attaqué injustement ! Mais c'est objectivement faux ! Les chiffres sont là, les documents sont conformes !"
 
-**RÉFÉRENTE** *(soupir patient)* :  
+**ANNE** *(soupir patient)* :
 "Vous voyez, vous revenez encore aux 'faits', aux 'documents'... En CNV, on ne dit pas 'c'est faux', on dit 'j'ai vécu la situation différemment'. Vous êtes dans le *jugement*. Peut-être qu'il a effectivement eu des difficultés à exploiter ces données ?"
 
-**VICTIME** *(s'énerve)* :  
+**SOPHIE** *(s'énerve)* :
 "Mais... c'est lui qui m'a attaqué le premier ! Publiquement !"
 
-**RÉFÉRENTE** *(ton ferme)* :  
+**ANNE** *(ton ferme)* :
 "Justement, vous êtes dans la *réaction*. En CNV, on ne parle pas de 'lui d'abord, moi ensuite'. Il vous a fait part de ses difficultés, peut-être maladroitement, et vous avez réagi de manière agressive. Chacun est responsable de ses émotions. Ses mots ne peuvent pas *vous faire* ressentir quoi que ce soit, c'est votre interprétation."
 
-**VICTIME** :  
+**SOPHIE** :
 "Mais il m'a accusé de sabotage !"
 
-**RÉFÉRENTE** :  
+**ANNE** :
 "Il ne vous a pas accusé devant moi. Il a exprimé un questionnement. Vous voyez, vous êtes encore dans l'interprétation..."
 
 ---
 
-### PARTIE C : Retour du manipulateur (confrontation)
+### PARTIE C : Retour d'Olivier (confrontation)
 
-*Le manipulateur revient dans le bureau*
+*Olivier revient dans le bureau*
 
-**MANIPULATEUR** *(soupir théâtral, air blessé)* :  
+**OLIVIER** *(soupir théâtral, air blessé)* :
 "Vous voyez ? Même maintenant il m'accuse... Il me traite de menteur... Je me sens vraiment en danger psychologique avec lui. Comment je peux travailler sereinement sur le dossier client dans ces conditions ?"
 
-**RÉFÉRENTE** *(à la victime, ton ferme et déçu)* :  
+**ANNE** *(à Sophie, ton ferme et déçu)* :
 "Vous voyez l'impact de vos paroles ? Votre collègue est sous pression, il avait besoin de soutien, et vous l'avez attaqué."
 
-*La victime baisse la tête, défaite*
+*Sophie baisse la tête, défaite*
 
----
-
-## SCÈNE 4 : La conclusion - Le piège se referme
-
-**DÉCOR** : Bureau de la victime. Seule. Écran d'ordinateur.
+**DÉCOR** : Bureau de Sophie. Seule. Écran d'ordinateur.
 
 ---
 
 **NOTIFICATION EMAIL**
 
 ```
-DE : Manager
+DE : Philippe
 OBJET : Suite entretien CNV
 
 Bonjour,
 
-Suite à l'entretien avec la référente CNV concernant l'incident 
+Suite à l'entretien avec Anne CNV concernant l'incident 
 avec votre collègue, nous avons identifié des axes d'amélioration 
 dans votre communication et votre posture collaborative. 
 
@@ -273,12 +216,12 @@ bienveillante et la gestion de vos émotions. Un point sera refait
 dans un mois. 
 
 Par ailleurs, merci de vous rendre disponible pour aider 
-[Manipulateur] à finaliser le dossier client.
+Olivier à finaliser le dossier client.
 
 Cordialement,
 ```
 
-**VICTIME** *(seule, effondrée, regardant les documents qui prouvent que son travail était correct)* :  
+**SOPHIE** *(seule, effondrée, regardant les documents qui prouvent que son travail était correct)* :  
 "C'est moi qui suis sanctionné... Et maintenant je dois l'aider à finir SON boulot... Les preuves ne servent à rien..."
 
 *La victime pose sa tête dans ses mains*
@@ -289,37 +232,37 @@ Cordialement,
 
 **DÉCOR** : Même salle café que scène 1. Ambiance décontractée.
 
-**PERSONNAGES** : Le Manipulateur, plusieurs collègues, le collègue gringalet de la scène 1, la Victime de la scène 2 qui arrive.
+**PERSONNAGES** : Olivier, plusieurs collègues, Thomas (scène 1), Sophie (scène 2) qui arrive.
 
 ---
 
-**MANIPULATEUR** *(au café, avec d'autres collègues, détendu, souriant)* :  
-"Ouais, il a des problèmes ce gars... Heureusement que la référente CNV a su gérer. Il est vraiment toxique, agressif... En plus il fait du boulot bâclé et après il s'énerve quand on le lui dit... Faut faire gaffe avec lui."
+**OLIVIER** *(au café, avec d'autres collègues, détendu, souriant)* :
+"Ouais, il a des problèmes ce gars... Heureusement qu'Anne a su gérer. Il est vraiment toxique, agressif... En plus il fait du boulot bâclé et après il s'énerve quand on le lui dit... Faut faire gaffe avec lui."
 
-**COLLÈGUE 1** :  
+**JULIEN** :
 "Ah bon ?"
 
-**MANIPULATEUR** :  
+**OLIVIER** :
 "Ouais, il m'a accusé publiquement de mentir ! Genre vraiment violent... Alors que j'essayais juste d'expliquer que ses données étaient inexploitables... Mais bon, le management lui a proposé un accompagnement, on va voir s'il s'améliore..."
 
-*Le collègue gringalet de la scène 1 est à la même table, baisse les yeux, mal à l'aise*
+*Thomas est à la même table, baisse les yeux, mal à l'aise*
 
-**MANIPULATEUR** *(le regarde en souriant, tape sur son épaule)* :  
-"Hein [prénom], tu as vu comment il était agressif en réunion ? Bon après toi t'es pas comme ça, t'es cool toi ! T'es quelqu'un de positif !"
+**OLIVIER** *(le regarde en souriant, tape sur son épaule)* :
+"Hein Thomas, tu as vu comment il était agressif en réunion ? Bon après toi t'es pas comme ça, t'es cool toi ! T'es quelqu'un de positif !"
 
-*Le collègue se crispe légèrement sous la tape*
+*Thomas se crispe légèrement sous la tape*
 
 ---
 
-**Au fond du café, la victime principale (scène 2) arrive pour prendre un café**
+**Au fond du café, Sophie (scène 2) arrive pour prendre un café**
 
-**MANIPULATEUR** *(la voit, hausse légèrement la voix, sourire en coin)* :  
+**OLIVIER** *(la voit, hausse légèrement la voix, sourire en coin)* :
 "Ah tiens, justement... Alors, ça avance cette formation CNV ?"
 
-**VICTIME** :  
+**SOPHIE** :
 *(serre les dents, ne répond pas, prend son café et part rapidement)*
 
-**MANIPULATEUR** *(aux collègues, fausse désolation)* :  
+**OLIVIER** *(aux collègues, fausse désolation)* :  
 "Vous voyez ? Même pas capable de communiquer... C'est dommage."
 
 *Les collègues ne disent rien, malaise palpable*
