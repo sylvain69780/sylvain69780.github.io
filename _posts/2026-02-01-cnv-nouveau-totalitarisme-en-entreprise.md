@@ -86,6 +86,81 @@ Mais que se passe-t-il lorsqu'un pervers narcissique se saisit de ce cadre pour 
 
 ---
 
+## SCÈNE 2.5 : Le procès-verbal - Les propositions fantômes
+
+**DÉCOR** : Même salle de réunion, 5 minutes après. Le manipulateur est allé chercher un café. Les collègues et la secrétaire restent pour remplir le procès-verbal.
+
+**PERSONNAGES** : La Secrétaire (qui prend les notes), le Manager, deux Collègues A et B
+
+---
+
+**SECRÉTAIRE** *(en tapant sur son ordinateur, lisant ses notes)* :  
+"Alors, récapitulatif : dossier client en retard, données à vérifier... Le manipulateur a proposé 'Action : audit complets des données fournies par l'équipe'. Je l'ajoute ?"
+
+**MANAGER** *(sourire las)* :  
+"Ouais, mets-la."
+
+*La secrétaire tape. Les collègues échangent des coups d'œil amusés*
+
+**COLLÈGUE A** *(rire étouffé)* :  
+"On peut faire ça maintenant ?"
+
+**COLLÈGUE B** *(tire une chaise près de la secrétaire)* :  
+"Oui, allez-y."
+
+*La secrétaire place le curseur sur la ligne "Action : audit complets des données", fait glisser jusqu'à la supprimer en souriant*
+
+**SECRÉTAIRE** :  
+"Voilà. Prochaine action ?"
+
+**MANAGER** *(approbateur)* :  
+"Oui, celle-là c'était juste du... waouh, il n'a vraiment rien compris au probème."
+
+**COLLÈGUE A** :  
+"Aucune de ses 'solutions' n'a jamais marché de toute façon. Ça fait trois mois qu'on efface ses trucs."
+
+**COLLÈGUE B** *(en riant)* :  
+"Il croit tellement que ça va être écrit quelque part et que les gens vont la suivre... Bravo, tu as parlé, ton truc est au procès-verbal... Ah non, attends, tu as le dos tourné !"
+
+*Rires étouffés autour de la table*
+
+**SECRÉTAIRE** :  
+"Bon, l'action officielle : 'Clarifier les spécifications du cahier des charges'."
+
+*Elle tape, puis ajoute en aparté à la manager*
+
+"Au fait, cette dernière semaine il a proposé cinq actions. Vous savez combien sont restées au PV définitif ?"
+
+**MANAGER** :  
+"Aucune ?"
+
+**SECRÉTAIRE** :  
+"Aucune. Zéro. Elles disparaissaient dès qu'il quittait la salle."
+
+*Nouveau rire, complice et fatigué*
+
+**COLLÈGUE A** :  
+"Le pire c'est qu'il croit vraiment que ses idées vont être implémentées. Regarde, la semaine dernière il m'a demandé l'avancement de son 'plan de restructuration des fichiers clients'..."
+
+**COLLÈGUE B** :  
+"Celui qu'on a jamais mis en production ?"
+
+**COLLÈGUE A** :  
+"Voilà. Il m'a dit 'tu me tiendras au courant de la progression.' J'ai huppé. Depuis il me pose des questions... Comment on lui dit qu'on a jamais commencé ?"
+
+**MANAGER** *(soupir)* :  
+"Vous ne lui dites rien. On continue comme ça. Il remplit sa case 'propositions de management', y croit, on le note, et boum, supprimé. Tout le monde est content."
+
+*Les collègues hochent la tête. Un silence amusé*
+
+**SECRÉTAIRE** :  
+"C'est pas très CNV, ça..."
+
+**MANAGER** *(au 4e mur)* :  
+"Non. Mais c'est efficace."
+
+---
+
 ## SCÈNE 3 : Chez la référente CNV - Retournement total
 
 **DÉCOR** : Bureau de la référente CNV. Atmosphère "bienveillante" avec affiches CNV, citations inspirantes.
