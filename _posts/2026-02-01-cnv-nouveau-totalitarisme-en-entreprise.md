@@ -435,6 +435,14 @@ les instances appropriées (RH, médecine du travail, inspection du travail).**
 
 ---
 
+## SOURCES
+
+- Toujours moins, toujours mieux, "Les derives de la CNV", 24 octobre 2025 : https://toujoursmoinstoujoursmieux.com/2025/10/24/les-derives-de-la-cnv/
+- Helene Burel-Lefort, "La communication non violente et ses possibles derives" : https://helene-burel-lefort.fr/la-communication-non-violente-et-ses-possibles-derives/
+- Coach Fatima Zahra Alami, "Pourquoi la communication nonviolente (CNV) echoue face aux relations toxiques et aux manipulateurs" : https://coach-fatimazahra-alami.com/2025/07/11/pourquoi-la-communication-nonviolente-cnv-echoue-face-aux-relations-toxiques-et-aux-manipulateurs/
+
+---
+
 ## FIN
 
 ---
