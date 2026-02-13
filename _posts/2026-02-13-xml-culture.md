@@ -5,19 +5,19 @@ date: 2026-02-13
 categories: middle-office design-authority
 ---
 
-# 📧 La Gazette de la Design Authority Déclic / MO | Février 2026
+# La Gazette de la Design Authority Déclic / MO | Février 2026
 
 ## Format du mois : XML
 
 ---
 
-## 🎯 XML : Pas du XML-Hocus-Pocus, juste du bon sens !
+## XML : Pas du XML à la va-vite, un peu de bon sens !
 
-Vous l'utilisez tous les jours : des flux d'échange avec les partenaires, des exports de données, des fichiers de configuration... Et pourtant, beaucoup lèvent les yeux au ciel en entendant "XML". Bonne nouvelle : **XML n'est pas plus compliqué qu'une combinaison bien enfilée** ! 🎽
+Vous l'utilisez tous les jours : des flux d'échange avec les partenaires, des exports de données, des fichiers de configuration... Et pourtant, beaucoup lèvent les yeux au ciel en entendant "XML". Bonne nouvelle : **XML n'est pas plus compliqué qu'une combinaison (de ski) bien enfilée** !
 
 ---
 
-## 🍕 Le XML en 30 secondes
+## Le XML en 30 secondes
 
 **XML = eXtensible Markup Language**
 
@@ -53,16 +53,18 @@ C'est un format universel pour organiser et structurer de l'information. Imagine
 </jeux_olympiques_2026>
 ```
 
-Tout est **clairement délimité**, **bien organisé**, et chaque partie sait exactement où elle s'imbrique. Comme les JO 2026 : structure, clarté, universel ! 🏅 
+Tout est **clairement délimité**, **bien organisé**, et chaque partie sait exactement où elle s'imbrique. Comme les JO 2026 : structure, clarté, universel ! 
 
 ---
 
-## 🏷️ Un détail qui change TOUT : "Balise" ou "Élément" ?
+## Un détail qui change TOUT : "Balise" ou "Élément" ?
 
 Vous avez probablement entendu : *"Ajoute une balise XML !"*
 
 > **"Mal nommer les choses, c'est rajouter au malheur du monde"**  
 > — *Albert Camus*
+
+| Terme | Signification | Exemple |
 |-------|---------------|---------|
 | **Balise** (tag) | Les crochets pointus | `<nom>` ou `</nom>` |
 | **Élément** (element) | La balise + son contenu + sa fermeture | `<nom>Alice</nom>` |
@@ -76,7 +78,7 @@ Donc quand on veut être clair :
 
 ---
 
-## 💡 3 règles d'or du XML (et c'est tout !)
+## 3 règles d'or du XML (et c'est tout !)
 
 1. **Chaque élément ouvert DOIT être fermé**  
    ✅ `<nom>Alice</nom>`  
@@ -84,7 +86,7 @@ Donc quand on veut être clair :
 
 2. **L'imbrication c'est comme les poupées russes**  
    ✅ `<client><nom>Bob</nom></client>`  
-   ❌ `<client><nom>Bob</client></nom>` (bordel !)
+   ❌ `<client><nom>Bob</client></nom>` (chaos !)
 
 3. **Un seul élément racine**  
    ✅ Un `<root>` qui contient tout  
@@ -92,7 +94,7 @@ Donc quand on veut être clair :
 
 ---
 
-## 🤔 Et ces trucs bizarres au début ? ✨
+## Et ces trucs bizarres au début ?
 
 Vous avez probablement vu ça en haut des fichiers XML :
 
@@ -105,11 +107,11 @@ C'est la **déclaration XML** – le "mode d'emploi" du fichier. Elle dit :
 
 Les machines la lisent pour savoir comment interpréter le reste. Rien de mystérieux, juste pratique ! 
 
-**P.S.** : Il existe aussi des choses appelées **"namespaces"** (espaces de noms) qui font des trucs encore plus bizarres avec des prefixes étranges... Mais c'est de l'usage avancé ! Si vous êtes curieux, n'hésitez pas à demander à Copilot ! 😉
+**P.S.** : Il existe aussi des choses appelées **"namespaces"** (espaces de noms) qui font des trucs encore plus bizarres avec des prefixes étranges... Mais c'est de l'usage avancé ! Si vous êtes curieux, n'hésitez pas à demander à Copilot !
 
 ---
 
-## 🚀 Et du coup, on gagne quoi ?
+## Et du coup, on gagne quoi ?
 
 - ✅ **Communication claire** : Tout le monde lit la même chose
 - ✅ **Automatisation** : Les machines le parsent sans pleurer
@@ -118,11 +120,11 @@ Les machines la lisent pour savoir comment interpréter le reste. Rien de mysté
 
 ---
 
-## 📌 Takeaway
+## Pour finir ?
 
 XML n'est pas compliqué, c'est juste de l'organisation. Pensez-y comme une **conversation structurée** entre systèmes.
 
-Et la prochaine fois qu'on parle de "balises", n'hésitez pas à nuancer : **"Tu veux ajouter un élément ?"** – vous verrez, ça fait style et ça montre qu'on prend soin de notre vocabulaire ! 😉
+Et la prochaine fois qu'on parle de "balises", n'hésitez pas à nuancer : **"Tu veux ajouter un élément ?"** – vous verrez, ça fait style et ça montre qu'on prend soin de notre vocabulaire !
 
 ---
 
