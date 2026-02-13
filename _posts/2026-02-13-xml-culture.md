@@ -94,6 +94,22 @@ Donc quand on veut être clair :
 
 ---
 
+## Comment nommer ses éléments ? (quelques précos)
+
+Une fois qu'on sait créer des éléments, encore faut-il les nommer correctement :
+
+- ✅ **Explicites** : `<nom_client>` plutôt que `<a>`
+- ✅ **Sans espaces** : `<nom_client>` plutôt que `<nom client>`
+- ✅ **camelCase ou snake_case** : `<nomClient>` ou `<nom_client>` (cohérence !)
+- ✅ **Minuscules** : convention XML usuelle
+- ❌ **Pas d'accents** : `<nom>` plutôt que `<élève>` (pour la portabilité)
+- ❌ **Pas de chiffres au début** : `<athlete1>` ✅ mais `<1athlete>` ❌
+- 💡 **Pas de caractères spéciaux** : tirets `-` et underscores `_` seulement
+
+C'est de la maintenance future qu'on se remercie ! 😉
+
+---
+
 ## Et ces trucs bizarres au début ?
 
 Vous avez probablement vu ça en haut des fichiers XML :
