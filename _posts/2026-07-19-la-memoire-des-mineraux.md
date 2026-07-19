@@ -13,7 +13,7 @@ Dans un village de vacances de la vallée de la Dordogne, bâti sur des roches c
 
 Le village s'appelait Les Terrasses du Crétacé, au-dessus d'un méandre de la Dordogne, entre Domme et La Roque-Gageac, ce qui semblait d'un goût excessif jusqu'à ce qu'on apprenne que ce n'était pas du marketing, mais de la cartographie.
 
-Autour, les causses calcaires alternaient avec des forêts sèches, des sentiers de randonnée et des villages de pierres blondes. Les bungalows blancs étaient posés sur un plateau lézardé de coquilles fossiles en coupe. Ici, les maisons anciennes avaient été bâties avec les mêmes calcaires locaux: il suffisait de lever les yeux sur un linteau ou un muret pour y voir des rudistes tranchés net, prisonniers de la maçonnerie depuis cent millions d'années. Les brochures promettaient "authenticité périgourdine"; la géologie, elle, livrait les preuves sans slogan.
+Autour, les causses calcaires alternaient avec des forêts sèches, des sentiers de randonnée et des villages de pierres blondes. Les bungalows blancs étaient posés sur un plateau lézardé de coquilles fossiles en coupe. Ici, les maisons anciennes avaient été bâties avec les mêmes calcaires locaux: il suffisait de lever les yeux sur un linteau ou un muret pour y voir des rudistes tranchés net, prisonniers de la pierre depuis cent millions d'années. Les brochures promettaient "authenticité périgourdine"; la géologie, elle, livrait les preuves sans slogan.
 
 Le buffet du matin offrait oeufs brouillés, cabécou, jus d'orange et, à l'occasion, une conférence géologique. Les vacanciers amateurs de balades et de vieilles pierres se déclaraient comblés avant même le café: sentier des crêtes le matin, bastide médiévale l'après-midi, coucher de soleil sur la rivière le soir. Les touristes en recherche d'action, eux, commençaient à demander où était la tyrolienne, le canyoning, ou au minimum une explosion contrôlée. La direction persistait néanmoins à financer la géologie: elle avait découvert que les clients acceptaient mieux les prix élevés lorsqu'on leur promettait une "expérience temporelle premium".
 
@@ -125,6 +125,8 @@ Le mot tomba comme un clic dans une serrure cosmique.
 Le plafond disparut.
 
 La lumière devint liquide, verte et bleue, striée de poussières calcaires. Là où se trouvait l'auvent du centre d'accueil s'étendait une mer chaude et peu profonde. Ils étaient sur une plate-forme transparente, suspendue au-dessus d'un relief corallien où des structures coniques et massives formaient un rempart vivant.
+
+Les touristes eurent la même pensée, sans se l'avouer: les rudistes qu'ils venaient de voir prisonniers dans la pierre des maisons semblaient, ici, libérés d'un très long silence.
 
 Les rudistes.
 
