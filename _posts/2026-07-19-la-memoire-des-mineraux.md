@@ -66,6 +66,16 @@ Un adolescent demanda:
 
 "Pas des souvenirs narratifs. Aucun calcaire ne se dit: *Ah, ce mardi-là, quel beau coucher de soleil.* En revanche, il conserve des signatures d'état. Notre algorithme inverse ce qui peut l'être, et reconstruit un volume cohérent de conditions passées."
 
+Le retraité au stylo rouge leva un doigt prudent.
+
+"Comme une approximation?"
+
+"Exactement," dit Lenoir. "Pensez au développement de Taylor. On part d'un point, de la valeur locale, puis des dérivées, et on reconstruit un polynôme qui approche la fonction autour de ce point. Nous faisons l'analogue géologique: on part d'une couche donnée, de ses contraintes locales et de leurs variations, puis on reconstruit l'état le plus cohérent autour."
+
+Il traça un cercle dans l'air.
+
+"Autrement dit, nous ne récupérons pas *tout* l'univers passé. Nous calculons une excellente approximation dans un voisinage spatio-temporel. Et comme en Taylor, plus on s'éloigne du point d'ancrage, plus l'erreur veut reprendre ses droits."
+
 L'influenceuse reprit:
 
 "Donc c'est de la réalité virtuelle."
