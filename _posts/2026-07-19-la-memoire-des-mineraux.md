@@ -7,13 +7,15 @@ date: 2026-07-19
 # La Mémoire des Minéraux
 
 **Résumé**
-Dans un village de vacances bâti sur des roches crétacées, le Dr. Lenoir propose aux touristes une attraction scientifique: la Stratophasie, technologie capable de reconstruire une époque géologique à partir de la mémoire quantique des minéraux. Entre scepticisme mondain, curiosité tactile et enthousiasme mal placé, une excursion dans un récif du Crétacé tourne court lorsqu'un vacancier décide de vérifier, du bout du doigt, si un rudiste vivant est "vraiment vivant". La science triomphe; l'humanité, comme toujours, improvise.
+Dans un village de vacances de la vallée de la Dordogne, bâti sur des roches crétacées, le Dr. Lenoir propose aux touristes une attraction scientifique: la Stratophasie, technologie capable de reconstruire une époque géologique à partir de la mémoire quantique des minéraux. Entre scepticisme mondain, curiosité tactile et enthousiasme mal placé, une excursion dans un récif du Crétacé tourne court lorsqu'un vacancier décide de vérifier, du bout du doigt, si un rudiste vivant est "vraiment vivant". La science triomphe; l'humanité, comme toujours, improvise.
 
 ## 1. Le Guide
 
-Le village s'appelait Les Terrasses du Crétacé, ce qui semblait d'un goût excessif jusqu'à ce qu'on apprenne que ce n'était pas du marketing, mais de la cartographie.
+Le village s'appelait Les Terrasses du Crétacé, au-dessus d'un méandre de la Dordogne, entre Domme et La Roque-Gageac, ce qui semblait d'un goût excessif jusqu'à ce qu'on apprenne que ce n'était pas du marketing, mais de la cartographie.
 
-Les bungalows blancs étaient posés sur un plateau de calcaires jaunâtres, lézardés de coquilles fossiles en coupe. Le buffet du matin offrait des oeufs brouillés, du jus d'orange et, à l'occasion, une conférence géologique. Les vacanciers préféraient les oeufs, mais la direction persistait à financer la géologie: elle avait découvert que les clients acceptaient mieux les prix élevés lorsqu'on leur promettait une "expérience temporelle premium".
+Autour, les causses calcaires alternaient avec des forêts sèches, des sentiers de randonnée et des villages de pierres blondes. Les bungalows blancs étaient posés sur un plateau lézardé de coquilles fossiles en coupe. Ici, les maisons anciennes avaient été bâties avec les mêmes calcaires locaux: il suffisait de lever les yeux sur un linteau ou un muret pour y voir des rudistes tranchés net, prisonniers de la maçonnerie depuis cent millions d'années. Les brochures promettaient "authenticité périgourdine"; la géologie, elle, livrait les preuves sans slogan.
+
+Le buffet du matin offrait oeufs brouillés, cabécou, jus d'orange et, à l'occasion, une conférence géologique. Les vacanciers amateurs de balades et de vieilles pierres se déclaraient comblés avant même le café: sentier des crêtes le matin, bastide médiévale l'après-midi, coucher de soleil sur la rivière le soir. Les touristes en recherche d'action, eux, commençaient à demander où était la tyrolienne, le canyoning, ou au minimum une explosion contrôlée. La direction persistait néanmoins à financer la géologie: elle avait découvert que les clients acceptaient mieux les prix élevés lorsqu'on leur promettait une "expérience temporelle premium".
 
 Ce matin-là, vingt-neuf touristes, trois enfants, une influenceuse, et un retraité qui corrigeait les panneaux explicatifs au stylo rouge, s'étaient rassemblés sous un auvent portant la mention:
 
@@ -192,7 +194,7 @@ Avec un geste net, Lenoir lança une purge de phase. La passerelle vacilla. Les 
 
 Le retour ne fut pas progressif. Il fut administratif.
 
-Un claquement sonore, une odeur d'ozone, et tout revint: l'auvent, les chaises en plastique, le panneau *Sortie par la boutique*, les cigales modernes.
+Un claquement sonore, une odeur d'ozone, et tout revint: l'auvent, les chaises en plastique, le panneau *Sortie par la boutique*, les cigales modernes et, au loin, les gabarres touristiques glissant sur la Dordogne avec une sérénité insultante.
 
 M. Bresson était assis par terre, doigt bandé par une trousse de secours dont l'usage principal était, jusqu'alors, les ampoules de randonnée.
 
@@ -234,6 +236,8 @@ Le lendemain, la direction fit imprimer de nouveaux dépliants:
 
 **STRATOPHASIE: VIVEZ LE CRÉTACÉ AUTHENTIQUE**  
 *Expérience immersive validée par la mémoire des minéraux*  
+*Entre causses de Dordogne, balades en vieilles pierres et fossiles dans les murs*  
+*Idéal pour marcheurs contemplatifs; déconseillé aux amateurs d'adrénaline immédiate*  
 **Ne pas nourrir, toucher, ou contredire les rudistes.**
 
 Le Dr. Lenoir relut le texte, corrigea deux fautes, et ajouta une note de bas de page que personne ne lirait:
