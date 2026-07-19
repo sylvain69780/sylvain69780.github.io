@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration de rudistes</title>
+  <desc id="desc">Colonie de rudistes dans une mer peu profonde du Cretace avec annotations scientifiques simplifiees.</desc>
+
+  <defs>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a9e2ef"/>
+      <stop offset="55%" stop-color="#57aabd"/>
+      <stop offset="100%" stop-color="#266f80"/>
+    </linearGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dccca9"/>
+      <stop offset="100%" stop-color="#b99c68"/>
+    </linearGradient>
+    <linearGradient id="shell" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5ebd2"/>
+      <stop offset="100%" stop-color="#c7aa75"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#water)"/>
+  <ellipse cx="140" cy="-20" rx="180" ry="100" fill="#fff6ca" opacity="0.45"/>
+  <g opacity="0.18" fill="url(#light)">
+    <polygon points="70,40 120,40 210,520 150,520"/>
+    <polygon points="150,40 190,40 300,520 248,520"/>
+    <polygon points="235,40 272,40 390,520 345,520"/>
+    <polygon points="320,40 350,40 480,520 438,520"/>
+  </g>
+
+  <g opacity="0.24" fill="#d9f5fa">
+    <circle cx="120" cy="120" r="7"/>
+    <circle cx="280" cy="90" r="5"/>
+    <circle cx="480" cy="140" r="6"/>
+    <circle cx="710" cy="110" r="5"/>
+    <circle cx="890" cy="130" r="7"/>
+    <circle cx="1040" cy="95" r="5"/>
+    <circle cx="980" cy="210" r="4"/>
+    <circle cx="1090" cy="180" r="3"/>
+    <circle cx="840" cy="250" r="3"/>
+    <circle cx="210" cy="210" r="3"/>
+    <circle cx="350" cy="245" r="4"/>
+  </g>
+
+  <g fill="#224f5d" opacity="0.35">
+    <path d="M170 205 C195 188, 224 191, 250 205 C224 219, 195 222, 170 205 Z"/>
+    <polygon points="250,205 270,193 270,217"/>
+    <path d="M290 250 C316 234, 348 236, 377 250 C348 264, 316 266, 290 250 Z"/>
+    <polygon points="377,250 399,238 399,262"/>
+    <path d="M885 235 C912 220, 940 220, 965 235 C940 250, 912 250, 885 235 Z"/>
+    <polygon points="965,235 987,223 987,247"/>
+    <path d="M790 275 C813 262, 840 263, 862 275 C840 287, 813 288, 790 275 Z"/>
+    <polygon points="862,275 881,264 881,286"/>
+  </g>
+
+  <ellipse cx="600" cy="628" rx="730" ry="145" fill="url(#sand)"/>
+  <g opacity="0.2" stroke="#9f875b" stroke-width="3" fill="none">
+    <path d="M40 586 C190 554, 365 552, 545 588 C730 625, 915 620, 1158 584"/>
+    <path d="M60 618 C210 584, 384 583, 566 617 C752 651, 930 650, 1165 616"/>
+    <path d="M90 646 C235 615, 405 613, 585 645 C770 675, 945 676, 1135 650"/>
+  </g>
+
+  <g stroke="#9b7d4b" stroke-width="4" fill="url(#shell)">
+    <path d="M95 575 C85 542, 88 503, 112 468 C146 420, 191 411, 214 439 C231 460, 231 488, 220 514 C207 544, 189 563, 173 575 Z"/>
+    <path d="M180 560 C160 500, 165 430, 205 360 C255 280, 330 260, 365 310 C390 345, 388 390, 370 430 C348 478, 325 520, 305 560 Z"/>
+    <path d="M290 540 C278 490, 285 430, 318 375 C360 305, 420 290, 448 332 C470 365, 468 402, 454 438 C438 478, 418 510, 402 540 Z"/>
+    <path d="M420 575 C398 510, 408 430, 455 350 C512 252, 603 232, 645 295 C676 341, 674 397, 653 445 C628 505, 600 545, 575 575 Z"/>
+    <path d="M590 555 C575 500, 582 438, 620 382 C668 312, 734 295, 767 338 C792 370, 790 409, 774 448 C754 490, 730 525, 710 555 Z"/>
+    <path d="M740 570 C720 515, 730 452, 770 398 C822 326, 892 312, 926 352 C951 381, 951 419, 936 455 C918 497, 892 535, 869 570 Z"/>
+    <path d="M905 560 C890 510, 895 456, 928 410 C970 352, 1024 338, 1052 370 C1073 395, 1075 426, 1062 458 C1046 496, 1026 530, 1007 560 Z"/>
+    <path d="M1040 575 C1029 542, 1032 505, 1056 472 C1088 427, 1130 418, 1152 445 C1168 466, 1169 493, 1160 517 C1148 547, 1132 563, 1118 575 Z"/>
+  </g>
+
+  <g fill="#f8f2e2" stroke="#8b6a3e" stroke-width="3">
+    <ellipse cx="160" cy="446" rx="48" ry="16"/>
+    <ellipse cx="285" cy="356" rx="72" ry="25"/>
+    <ellipse cx="383" cy="334" rx="62" ry="22"/>
+    <ellipse cx="548" cy="296" rx="96" ry="31"/>
+    <ellipse cx="690" cy="340" rx="78" ry="25"/>
+    <ellipse cx="850" cy="354" rx="82" ry="26"/>
+    <ellipse cx="989" cy="372" rx="66" ry="22"/>
+    <ellipse cx="1106" cy="449" rx="44" ry="14"/>
+  </g>
+
+  <g fill="none" stroke="#7a5c34" stroke-width="2" opacity="0.45">
+    <path d="M120 540 C140 522, 151 498, 163 468"/>
+    <path d="M220 510 C250 500, 280 470, 300 430"/>
+    <path d="M338 500 C360 475, 382 440, 402 395"/>
+    <path d="M465 530 C500 500, 542 440, 572 360"/>
+    <path d="M635 520 C665 488, 695 446, 718 398"/>
+    <path d="M785 530 C820 500, 848 456, 872 410"/>
+    <path d="M946 520 C972 490, 994 456, 1012 420"/>
+    <path d="M1068 542 C1084 521, 1094 495, 1104 468"/>
+  </g>
+
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="2">
+    <path d="M250 392 C290 382, 345 380, 390 394"/>
+    <path d="M500 347 C550 334, 608 336, 660 348"/>
+    <path d="M815 395 C860 382, 918 384, 967 396"/>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="22" fill="#173c48" opacity="0.9">
+    <text x="54" y="58">Colonie de rudistes - Cretace superieur</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="18" fill="#143641" opacity="0.95" stroke="#eaf7fa" stroke-width="0.6">
+    <text x="140" y="300">Valve operculaire</text>
+    <line x1="260" y1="300" x2="320" y2="330" stroke="#163f4b" stroke-width="1.6"/>
+    <text x="760" y="575">Valve fixe (conique)</text>
+    <line x1="935" y1="566" x2="900" y2="520" stroke="#163f4b" stroke-width="1.6"/>
+    <text x="920" y="630">Substrat calcaire recifal</text>
+    <line x1="1088" y1="622" x2="1035" y2="606" stroke="#163f4b" stroke-width="1.6"/>
+  </g>
+
+  <g fill="#153a45" opacity="0.8">
+    <rect x="60" y="650" width="120" height="8" rx="2"/>
+    <line x1="60" y1="646" x2="60" y2="662" stroke="#153a45" stroke-width="2"/>
+    <line x1="180" y1="646" x2="180" y2="662" stroke="#153a45" stroke-width="2"/>
+    <text x="90" y="644" font-family="Georgia, serif" font-size="16">~2 m</text>
+  </g>
+</svg>

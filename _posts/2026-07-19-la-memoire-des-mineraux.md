@@ -128,6 +128,10 @@ La lumière devint liquide, verte et bleue, striée de poussières calcaires. L�
 
 Les rudistes.
 
+![Illustration d'une colonie de rudistes dans une mer peu profonde du Crétacé](/assets/images/rudiste-illustration.svg)
+
+*Illustration: reconstitution stylisée d'un récif à rudistes.*
+
 Ni tout à fait huîtres, ni vraiment sculptures, ils s'ouvraient par grandes valves épaisses, filtrant l'eau avec la patience souveraine des organismes qui ignorent les agendas.
 
 Une femme murmura:
