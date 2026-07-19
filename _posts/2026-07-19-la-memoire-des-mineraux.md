@@ -41,7 +41,11 @@ Un homme au polo vert, dont l'assurance tenait lieu de méthode scientifique, fr
 
 Lenoir sourit avec cette pitié polie qu'on réserve aux erreurs populaires.
 
-"Excellente question. Non. La mémoire de l'eau est une fiction confortable. La mémoire des minéraux est un problème de physique de l'information. Voilà qui est beaucoup moins vendeur et beaucoup plus vrai."
+"Excellente question. Non. La mémoire de l'eau est une fiction confortable. La version classique dit que l'eau resterait "imprégnée" par un produit qu'on y a mélangé, même après des dilutions si extrêmes qu'il ne reste plus une seule molécule du produit initial."
+
+Il haussa les épaules.
+
+"C'est séduisant, parce que c'est simple, mystique et pratique. Le seul défaut, c'est l'absence de preuve robuste. La mémoire des minéraux, elle, repose sur des corrélations mesurables dans un réseau cristallin stable. Voilà qui est beaucoup moins vendeur et beaucoup plus vrai."
 
 Le retraité au stylo rouge hocha la tête, satisfait par l'emploi du mot *information*.
 
