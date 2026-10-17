@@ -6,8 +6,12 @@ date: 2026-07-19
 
 # La Mémoire des Minéraux
 
+> Cette fiction spéculative a été écrite avec l'aide d'une IA générative, puis relue et retouchée par l'auteur. Voici un prompt qui permettrait d'en générer une version proche :
+>
+> « Écris une nouvelle de science-fiction humoristique, située dans un village de vacances de la vallée de la Dordogne. Un géologue, le Dr Adrien Lenoir, y présente la Stratophasie, une technologie fictive qui reconstitue le Crétacé à partir des traces conservées dans les minéraux. Explique sa base théorique : chaque couche géologique sert de point d'ancrage et conserve, dans son réseau cristallin, des signatures de contraintes et de conditions passées. En analysant la couche choisie et les variations de ces signatures dans son voisinage, l'algorithme reconstruit une approximation cohérente du passé, comme un développement de Taylor autour d'un point. La reconstruction est locale, limitée par la qualité des données et ne permet ni de modifier le passé ni d'interagir causalement avec lui. Pendant une visite d'un récif de rudistes rattaché à la couche d'ancrage, un vacancier imprudent touche l'un des mollusques et introduit une contrainte non prévue, ce qui déstabilise la reconstitution. Raconte l'incident et le retour au présent avec un humour d'observation, des personnages crédibles et quelques répliques piquantes, sans accumuler les jeux de mots. Fais de la prudence scientifique et des consignes de sécurité un fil comique. Présente clairement cette théorie comme un élément de fiction, pas comme une science établie. »
+
 **Résumé**
-Dans un village de vacances de la vallée de la Dordogne, bâti sur des roches crétacées, le Dr. Lenoir propose aux touristes une attraction scientifique: la Stratophasie, technologie capable de reconstruire une époque géologique à partir de la mémoire quantique des minéraux. Entre scepticisme mondain, curiosité tactile et enthousiasme mal placé, une excursion dans un récif du Crétacé tourne court lorsqu'un vacancier décide de vérifier, du bout du doigt, si un rudiste vivant est "vraiment vivant". La science triomphe; l'humanité, comme toujours, improvise.
+Dans un village de vacances de la vallée de la Dordogne, le Dr Lenoir propose une attraction scientifique fictive : la Stratophasie, qui reconstitue le Crétacé à partir des traces conservées dans les minéraux. La visite d'un récif tourne court lorsqu'un vacancier décide de vérifier du doigt si un rudiste est vraiment vivant. La science garde son calme ; les touristes, beaucoup moins.
 
 ## 1. Le Guide
 
@@ -124,9 +128,7 @@ Lenoir annonça, sobrement:
 
 "Hop."
 
-Le mot tomba comme un clic dans une serrure cosmique.
-
-Le plafond disparut.
+Le mot suffit. Le plafond disparut.
 
 La lumière devint liquide, verte et bleue, striée de poussières calcaires. Là où se trouvait l'auvent du centre d'accueil s'étendait une mer chaude et peu profonde. Ils étaient sur une plate-forme transparente, suspendue au-dessus d'un relief corallien où des structures coniques et massives formaient un rempart vivant.
 
@@ -144,11 +146,9 @@ Une femme murmura:
 
 "C'est... magnifique."
 
-Le polo vert chuchota:
+Le polo vert garda le silence. Il semblait chercher où réserver une table.
 
-"Ça ressemble à des toilettes antiques."
-
-Lenoir choisit l'élégance du silence.
+Lenoir reprit la visite.
 
 ## 4. Le Problème
 
@@ -206,7 +206,7 @@ Lenoir expliqua en travaillant, par réflexe pédagogique.
 
 "En français?" gémit M. Bresson, toujours prisonnier.
 
-"Votre doigt contredit cent millions d'années de statistiques."
+"Vous venez de déstabiliser une reconstitution qui tenait depuis cent millions d'années."
 
 Avec un geste net, Lenoir lança une purge de phase. La passerelle vacilla. Les touristes se regroupèrent au centre, soudain unis par la même conviction: les vacances aventure sont meilleures dans les brochures.
 
@@ -220,7 +220,7 @@ M. Bresson était assis par terre, doigt bandé par une trousse de secours dont 
 
 "J'ai saigné?" demanda-t-il.
 
-"Un peu," dit Lenoir. "Le rudiste aussi, d'une certaine façon conceptuelle."
+"Un peu," dit Lenoir. "Le rudiste, lui, s'en remettra sans pansement."
 
 L'influenceuse vérifia son téléphone.
 
@@ -234,7 +234,7 @@ Le polo vert, pâle mais combatif, conclut:
 
 Lenoir réfléchit.
 
-"Non. C'est humainement interactif. Ce qui est plus difficile à garantir."
+"La machine a suivi son protocole. Les visiteurs, eux, restent imprévisibles."
 
 Une responsable du village arriva en courant, sourire contractuel en place.
 
@@ -258,7 +258,7 @@ Le lendemain, la direction fit imprimer de nouveaux dépliants:
 *Expérience immersive validée par la mémoire des minéraux*  
 *Entre causses de Dordogne, balades en vieilles pierres et fossiles dans les murs*  
 *Idéal pour marcheurs contemplatifs; déconseillé aux amateurs d'adrénaline immédiate*  
-**Ne pas nourrir, toucher, ou contredire les rudistes.**
+**Ne pas toucher les rudistes. Même pour vérifier.**
 
 Le Dr. Lenoir relut le texte, corrigea deux fautes, et ajouta une note de bas de page que personne ne lirait:
 
